@@ -1,0 +1,501 @@
+respondent_id,age,gender,nationality,city,employment_status,education_level,years_in_uae,monthly_income_aed,savings_habit,monthly_savings_aed,has_investments,investment_experience,risk_appetite,sharia_compliant_preference,tech_savviness,smartphone_usage_hours_daily,finance_apps_currently_used,feature_spending_tracker,feature_savings_goals,feature_micro_investment,feature_sharia_portfolio,feature_ai_advisor,feature_peer_comparison,financial_anxiety_score,willingness_to_pay_aed_monthly,nps_score,would_use_app,expected_monthly_investment_aed
+R0001,22,Female,Indian,Dubai,Student,Bachelor,15,0,None,0,0,None,Medium,Yes,High,7.2,3,1,1,1,0,0,0,7,17,10,1,1028
+R0002,40,Female,Emirati,Dubai,Employed,Master,38,22315,Irregular,496,0,Beginner,High,No Preference,High,5.3,0,1,1,1,0,1,0,10,193,5,1,2237
+R0003,37,Male,Indian,Dubai,Self-Employed,Bachelor,0,22885,None,0,0,None,Medium,No,Medium,4.1,3,0,0,1,0,0,1,9,57,6,0,1689
+R0004,31,Male,Pakistani,Abu Dhabi,Self-Employed,Bachelor,11,25135,Regular,1049,1,Intermediate,Medium,No Preference,High,4.2,4,1,1,1,0,0,0,8,80,10,1,2619
+R0005,31,Male,Filipino,Dubai,Employed,PhD,8,19900,None,0,0,None,Medium,Yes,High,7.2,1,1,1,1,1,1,1,6,61,7,1,1938
+R0006,42,Female,Indian,Sharjah,Student,Bachelor,13,0,None,0,0,None,Medium,No Preference,Medium,5.4,3,1,1,1,0,0,1,3,9,10,1,744
+R0007,22,Female,Emirati,Sharjah,Employed,Master,12,10509,Irregular,1089,1,Beginner,Medium,Yes,High,3.4,4,1,1,0,0,1,0,7,21,8,1,1371
+R0008,38,Male,Other,Sharjah,Unemployed,Master,1,439,None,0,0,Beginner,Medium,Yes,Medium,2.1,2,1,1,0,1,1,1,8,1,3,0,783
+R0009,25,Male,Indian,Abu Dhabi,Self-Employed,High School,9,24824,Regular,3407,0,Beginner,High,No,Medium,7.2,2,1,1,0,0,1,1,6,167,2,0,2744
+R0010,22,Female,Pakistani,Other,Self-Employed,Bachelor,14,25450,Regular,2440,0,None,High,Yes,Medium,4.4,1,1,0,1,1,1,0,1,70,5,1,3270
+R0011,33,Male,British,Dubai,Employed,Master,6,11160,Regular,4391,1,Advanced,Low,No,Medium,6.2,2,1,0,0,0,1,0,10,38,1,0,2636
+R0012,45,Female,Indian,Dubai,Employed,PhD,12,13094,Irregular,1241,0,Beginner,Medium,Yes,High,8.0,4,1,1,1,0,0,1,9,77,9,1,1546
+R0013,39,Male,Indian,Dubai,Employed,Bachelor,14,14383,Regular,3277,1,Beginner,Low,Yes,Medium,2.9,3,0,1,1,1,1,0,4,92,7,1,1806
+R0014,39,Male,Indian,Ajman,Employed,High School,13,16213,None,0,1,Beginner,Low,No Preference,Medium,5.4,1,1,1,0,1,1,0,5,81,10,1,1380
+R0015,38,Female,Other,Abu Dhabi,Employed,Bachelor,8,11189,Regular,4911,0,Beginner,Medium,Yes,Medium,5.2,2,1,0,1,1,1,1,2,62,6,0,2314
+R0016,40,Male,Indian,Sharjah,Employed,Bachelor,11,10889,Regular,1603,1,Beginner,Medium,No Preference,Medium,6.3,3,1,1,1,0,1,1,10,68,9,1,2050
+R0017,33,Male,Indian,Dubai,Unemployed,Master,8,0,Irregular,809,1,Advanced,Medium,No Preference,Medium,8.0,0,0,0,0,0,1,1,3,30,5,0,1574
+R0018,23,Male,Indian,Other,Employed,Bachelor,10,18431,Regular,881,0,Beginner,Low,Yes,High,2.8,3,1,1,0,1,1,1,4,66,8,1,1068
+R0019,41,Male,Indian,Abu Dhabi,Employed,Master,9,12097,Irregular,760,1,Beginner,High,No Preference,Medium,6.6,1,0,0,0,0,0,1,5,81,2,0,1955
+R0020,31,Male,Filipino,Abu Dhabi,Self-Employed,Master,8,21420,Irregular,769,0,Beginner,High,Yes,Medium,7.6,1,1,0,0,1,1,0,3,140,1,0,1963
+R0021,33,Male,Indian,Other,Student,Master,6,8292,Regular,4813,0,None,Medium,No,High,5.1,2,1,1,0,1,1,0,7,36,9,1,2024
+R0022,29,Male,Pakistani,Dubai,Student,Master,10,0,Irregular,1229,0,Beginner,High,Yes,Low,5.2,2,1,1,1,1,1,1,10,23,10,1,1651
+R0023,24,Male,Pakistani,Dubai,Student,Master,12,1967,None,0,0,None,Low,No Preference,High,6.3,4,1,1,0,1,0,0,9,0,7,1,0
+R0024,44,Female,Other,Abu Dhabi,Self-Employed,Master,14,27123,Regular,4327,0,Beginner,Medium,No,Medium,6.2,1,0,1,0,1,1,1,6,61,4,0,2800
+R0025,40,Female,Indian,Dubai,Student,Master,9,908,Irregular,229,1,Intermediate,High,No,Medium,6.7,1,1,1,0,0,1,1,2,17,5,0,1327
+R0026,36,Male,Other,Dubai,Employed,High School,1,15131,Regular,3800,0,None,High,No Preference,High,6.6,1,1,1,1,1,1,0,9,28,5,1,2721
+R0027,30,Male,Filipino,Dubai,Student,Bachelor,9,8817,Regular,637,1,Beginner,High,Yes,High,3.5,4,1,1,1,1,1,1,3,41,6,1,2435
+R0028,41,Male,Indian,Dubai,Employed,Bachelor,5,16468,Regular,3010,0,Beginner,Medium,No Preference,High,7.5,4,1,1,0,0,1,1,10,39,9,1,1914
+R0029,34,Female,British,Sharjah,Employed,Master,0,23522,Irregular,811,0,Beginner,High,No Preference,Medium,7.8,2,1,1,0,1,0,1,4,102,6,1,2498
+R0030,31,Female,Other,Abu Dhabi,Employed,Master,1,20144,Irregular,666,1,Beginner,Medium,No Preference,Medium,5.9,3,1,1,1,1,0,0,6,194,5,1,2048
+R0031,31,Male,Indian,Dubai,Employed,Bachelor,9,16285,Irregular,1415,1,Advanced,Low,No Preference,High,2.5,4,1,1,1,0,1,1,5,48,5,1,2604
+R0032,25,Male,Other,Dubai,Student,Bachelor,15,5398,Irregular,1299,0,None,Low,No Preference,Medium,5.3,4,1,1,1,0,1,0,5,12,7,1,780
+R0033,22,Male,Pakistani,Dubai,Employed,Bachelor,8,19602,Irregular,1355,1,Beginner,High,Yes,High,5.9,3,1,1,1,1,1,1,2,71,8,1,2294
+R0034,34,Male,Filipino,Abu Dhabi,Employed,Master,7,23104,Irregular,504,1,Beginner,Medium,No Preference,Medium,3.2,2,1,0,1,0,0,1,6,115,6,1,2257
+R0035,43,Female,Other,Ajman,Employed,Bachelor,1,15258,Regular,4972,1,Intermediate,Medium,No Preference,High,4.8,4,1,1,1,0,0,0,5,71,7,1,2971
+R0036,21,Male,Emirati,Ajman,Self-Employed,High School,4,22206,Regular,2978,0,Beginner,High,No,Medium,2.7,1,1,1,1,1,1,0,9,84,6,1,2734
+R0037,42,Male,Other,Dubai,Employed,Master,0,17692,Regular,3535,0,None,Medium,Yes,Medium,6.7,1,1,1,0,1,1,1,5,93,0,0,2296
+R0038,41,Male,Emirati,Dubai,Student,Master,15,6520,Regular,3967,0,None,Medium,No Preference,Medium,5.8,3,1,1,1,0,1,1,10,28,5,1,1849
+R0039,27,Male,British,Dubai,Self-Employed,Bachelor,13,16874,Irregular,1467,0,None,Medium,Yes,Medium,2.2,0,1,1,1,1,1,0,3,72,6,1,1769
+R0040,36,Male,Filipino,Abu Dhabi,Employed,Bachelor,15,23084,Regular,1927,1,Advanced,Medium,No,High,6.2,2,0,1,1,1,1,1,4,104,8,1,3842
+R0041,24,Female,Indian,Dubai,Student,PhD,4,5331,Regular,3251,1,Beginner,High,No,Medium,5.4,4,1,1,1,1,1,1,1,38,10,1,1666
+R0042,39,Male,Emirati,Abu Dhabi,Employed,Master,18,11415,Regular,3442,0,Beginner,Medium,Yes,Medium,6.5,0,1,1,1,1,0,0,8,54,7,1,2541
+R0043,38,Female,Emirati,Abu Dhabi,Employed,Master,16,24041,Regular,4358,0,None,Medium,No Preference,High,4.7,4,1,1,0,0,1,1,1,149,5,1,2210
+R0044,29,Male,Indian,Dubai,Student,Bachelor,12,14170,Regular,2666,0,None,Medium,Yes,High,3.9,2,0,1,1,1,1,0,3,87,8,1,2005
+R0045,21,Female,Indian,Dubai,Self-Employed,Bachelor,3,27009,Regular,2758,0,None,Medium,No Preference,Medium,4.0,4,0,1,0,0,1,0,10,197,5,0,2126
+R0046,45,Female,Emirati,Dubai,Employed,High School,21,25134,Regular,2764,0,None,High,No Preference,High,4.4,3,1,1,1,0,1,1,7,123,6,1,2633
+R0047,31,Non-binary/Other,Indian,Dubai,Student,Master,2,3426,Irregular,1407,0,None,Low,Yes,Medium,5.5,0,0,1,1,0,0,0,6,39,3,0,1147
+R0048,43,Female,Indian,Dubai,Employed,High School,0,9692,Irregular,318,0,Beginner,High,No Preference,High,5.8,3,1,1,0,1,0,1,9,75,10,1,2105
+R0049,37,Female,British,Abu Dhabi,Student,High School,3,0,Irregular,1365,0,None,Medium,Yes,Medium,5.1,0,1,1,0,1,1,1,8,13,3,0,607
+R0050,40,Female,British,Dubai,Student,Master,12,4275,Irregular,1373,0,Beginner,Low,No Preference,Medium,4.7,1,1,1,0,0,1,1,9,19,0,0,789
+R0051,39,Female,British,Dubai,Student,PhD,9,40,None,0,0,None,Medium,No Preference,Medium,4.8,4,0,1,1,0,0,0,7,4,8,1,719
+R0052,25,Male,Emirati,Abu Dhabi,Student,Master,6,0,Irregular,402,0,Beginner,Medium,Yes,Low,10.5,4,1,1,1,1,1,0,5,13,10,1,1500
+R0053,29,Male,Other,Sharjah,Employed,Bachelor,10,17686,Regular,3660,0,None,Medium,No Preference,Medium,4.0,0,1,1,1,0,0,1,2,51,10,1,1682
+R0054,32,Male,Pakistani,Dubai,Student,Bachelor,10,6077,None,0,1,Beginner,High,No,Medium,4.4,1,1,1,0,1,1,1,4,6,7,1,1417
+R0055,32,Female,Indian,Sharjah,Student,Bachelor,8,0,Irregular,1363,1,Advanced,Medium,No,High,12.1,0,0,0,1,0,1,1,8,19,5,1,1954
+R0056,21,Male,Indian,Ajman,Student,Bachelor,8,755,Regular,2147,0,None,Low,No Preference,Medium,6.3,1,0,1,1,0,0,0,3,11,5,1,60
+R0057,34,Male,Filipino,Abu Dhabi,Employed,Bachelor,1,25549,Irregular,375,0,None,Medium,No,Low,2.7,4,1,1,0,1,1,0,7,85,5,0,1644
+R0058,24,Female,Indian,Abu Dhabi,Employed,Bachelor,4,12623,Irregular,218,0,None,Medium,No,High,7.2,0,1,0,0,0,1,0,2,30,9,1,1629
+R0059,39,Male,Pakistani,Dubai,Employed,Bachelor,8,22348,Irregular,462,0,None,Medium,Yes,High,3.7,3,0,1,1,1,1,1,1,116,9,1,1713
+R0060,37,Male,Other,Ajman,Employed,Master,2,15576,Regular,633,1,Intermediate,High,No,High,7.3,4,1,1,0,0,0,0,4,88,9,1,2543
+R0061,43,Male,Indian,Dubai,Employed,PhD,7,20728,Regular,2361,0,Beginner,Medium,No Preference,Medium,5.1,4,0,1,0,0,0,1,3,133,2,0,2468
+R0062,39,Male,Indian,Ajman,Employed,High School,1,23486,Regular,4953,0,None,Low,Yes,Low,4.6,1,1,0,0,1,1,0,9,193,5,0,2161
+R0063,29,Male,Other,Abu Dhabi,Student,Bachelor,12,6706,None,0,0,None,Medium,No,Medium,8.7,3,0,1,0,0,1,0,4,36,4,0,771
+R0064,45,Male,Pakistani,Dubai,Employed,Bachelor,1,22545,Irregular,925,0,None,Low,Yes,Medium,6.6,2,1,1,0,1,1,1,5,177,0,0,797
+R0065,30,Male,Indian,Dubai,Self-Employed,Bachelor,1,16242,Irregular,825,1,Advanced,Medium,No Preference,Low,7.4,0,1,0,0,0,1,1,5,94,0,0,2362
+R0066,28,Male,Other,Abu Dhabi,Employed,Bachelor,10,23568,Regular,2099,0,Beginner,Low,No,High,6.4,1,0,1,1,0,1,1,4,166,8,1,2370
+R0067,43,Male,Other,Abu Dhabi,Student,Bachelor,3,0,Irregular,675,0,None,Medium,No,High,4.6,3,1,1,1,0,0,0,10,12,10,1,853
+R0068,29,Female,Pakistani,Dubai,Employed,Master,5,19297,Irregular,664,0,None,High,Yes,High,6.7,3,0,1,1,1,1,1,8,54,5,1,2308
+R0069,21,Male,Filipino,Sharjah,Employed,Bachelor,5,19291,Regular,3672,0,None,Medium,No,Medium,7.9,2,1,1,1,0,1,0,2,76,9,1,2439
+R0070,32,Female,Indian,Sharjah,Student,Master,3,5425,Regular,4910,1,Intermediate,Low,No Preference,High,5.8,3,0,0,1,0,0,1,3,24,8,1,2811
+R0071,40,Female,Indian,Abu Dhabi,Self-Employed,High School,12,23684,Irregular,344,0,None,Medium,No,Medium,9.1,3,1,1,0,0,0,1,1,197,4,0,1524
+R0072,24,Male,Pakistani,Dubai,Employed,High School,11,13780,Regular,1635,0,None,Medium,No,High,7.2,1,1,1,0,0,1,0,3,96,6,1,1898
+R0073,32,Male,Indian,Dubai,Employed,Bachelor,3,11250,Regular,1068,1,Intermediate,Medium,No Preference,Medium,5.9,1,0,0,0,1,1,1,7,42,1,0,1816
+R0074,23,Male,Filipino,Sharjah,Student,High School,10,7361,None,0,0,None,Low,No,Medium,6.0,4,1,1,1,1,1,0,10,7,5,1,1176
+R0075,37,Female,Other,Dubai,Student,Bachelor,11,3929,Irregular,518,1,Beginner,High,No,Low,5.8,4,0,1,1,0,0,0,5,31,9,1,1233
+R0076,32,Female,Indian,Sharjah,Employed,PhD,8,23746,Regular,1776,1,Beginner,Medium,Yes,High,3.0,0,1,1,0,1,1,0,1,84,10,1,2198
+R0077,28,Female,Pakistani,Dubai,Employed,Bachelor,9,17776,Irregular,1248,1,Intermediate,Medium,Yes,High,5.3,3,1,1,1,1,0,0,1,43,5,1,2320
+R0078,25,Male,Indian,Abu Dhabi,Employed,Bachelor,14,10974,Regular,817,1,Intermediate,Low,No Preference,High,5.9,0,1,1,1,1,0,1,5,87,7,1,1654
+R0079,34,Female,Other,Dubai,Self-Employed,Bachelor,7,26830,Regular,2642,0,None,Medium,No Preference,High,4.7,4,0,1,0,1,1,1,3,57,9,1,2637
+R0080,37,Male,Indian,Dubai,Employed,Bachelor,6,16148,Regular,3574,0,None,Medium,No Preference,High,6.2,2,0,0,1,0,1,1,6,63,9,1,2336
+R0081,44,Female,Filipino,Sharjah,Employed,Bachelor,8,19710,Regular,1557,1,Advanced,Low,No Preference,High,5.5,3,1,1,1,1,1,1,2,29,10,1,3163
+R0082,31,Male,Pakistani,Abu Dhabi,Unemployed,Bachelor,13,762,Regular,507,0,None,Medium,No,Medium,7.0,3,1,1,1,1,1,1,3,37,9,1,638
+R0083,24,Female,Emirati,Abu Dhabi,Employed,Master,10,26221,None,0,0,None,Medium,Yes,High,6.8,3,1,1,1,1,1,0,6,116,10,1,1764
+R0084,41,Female,Filipino,Other,Employed,Bachelor,1,13617,Irregular,590,1,Intermediate,High,No,Low,5.8,1,0,1,1,0,0,0,3,35,10,1,2504
+R0085,36,Male,British,Other,Employed,Bachelor,7,16312,Irregular,1117,1,Beginner,High,No Preference,Medium,2.8,4,1,1,0,0,0,0,4,52,10,1,2027
+R0086,38,Female,Pakistani,Sharjah,Employed,Master,11,18537,Irregular,117,0,Beginner,Low,No Preference,Medium,9.1,2,1,1,1,0,1,1,3,32,7,1,1394
+R0087,22,Male,British,Dubai,Employed,Master,3,12539,Regular,1194,1,Intermediate,Low,No,Medium,5.2,2,1,1,1,0,1,1,1,75,7,1,1478
+R0088,28,Female,Other,Abu Dhabi,Employed,Bachelor,15,19652,Irregular,275,0,None,High,No Preference,High,5.3,1,1,0,0,1,1,1,4,54,7,1,2197
+R0089,39,Male,Emirati,Sharjah,Student,Bachelor,17,11059,None,0,1,Intermediate,High,No Preference,High,4.8,0,1,0,1,0,1,0,4,78,10,1,2144
+R0090,41,Female,Pakistani,Dubai,Student,High School,13,547,Regular,3963,0,None,High,No Preference,Medium,4.5,2,1,1,0,0,0,0,9,25,3,0,2048
+R0091,31,Male,Indian,Dubai,Employed,Bachelor,1,19975,None,0,0,None,Low,No Preference,High,8.6,1,1,1,1,0,0,1,9,77,9,1,1303
+R0092,40,Female,British,Sharjah,Student,High School,9,0,None,0,1,Intermediate,Low,No,Medium,8.3,3,1,0,1,1,1,0,5,9,2,0,1095
+R0093,41,Female,Pakistani,Abu Dhabi,Employed,Master,8,17805,Irregular,1181,1,Intermediate,Low,Yes,Low,6.4,1,0,0,1,1,0,1,3,32,5,1,2194
+R0094,30,Female,Emirati,Abu Dhabi,Self-Employed,Bachelor,21,20434,Irregular,1415,0,None,High,No,Medium,5.3,4,1,1,1,0,1,0,5,153,7,1,2157
+R0095,43,Female,Indian,Other,Employed,Master,13,13907,Regular,2154,0,Beginner,Medium,Yes,Medium,6.7,3,1,1,0,1,1,0,7,79,3,0,1836
+R0096,27,Female,Other,Abu Dhabi,Student,High School,5,8407,Irregular,978,0,None,Medium,No Preference,Medium,5.6,2,1,1,1,1,1,1,4,67,9,1,1894
+R0097,26,Female,Emirati,Dubai,Employed,Master,31,16368,Regular,3413,1,Intermediate,Medium,No,Medium,5.1,3,1,0,1,0,1,1,8,37,7,1,2876
+R0098,37,Male,Filipino,Dubai,Student,Master,10,2112,None,0,1,Beginner,Low,No,Low,6.2,3,1,1,1,0,0,1,10,31,7,1,876
+R0099,36,Female,Indian,Dubai,Employed,High School,12,16114,Irregular,1331,0,None,Medium,Yes,Medium,4.6,3,1,1,1,1,0,0,5,35,5,1,1980
+R0100,23,Male,Other,Dubai,Student,High School,12,0,Irregular,1217,0,None,Low,No,High,6.0,2,1,1,1,0,0,0,2,13,5,1,636
+R0101,41,Female,Indian,Sharjah,Employed,High School,5,12340,None,0,1,Intermediate,Medium,No,Low,5.9,4,1,0,1,0,0,1,2,76,9,1,1973
+R0102,25,Male,Indian,Sharjah,Self-Employed,Master,15,26805,Regular,1734,0,None,Medium,Yes,Medium,6.7,1,0,1,0,1,0,1,9,126,4,0,2251
+R0103,40,Female,Other,Dubai,Employed,Bachelor,0,7450,None,0,0,Beginner,Medium,No Preference,Medium,4.3,2,1,1,1,0,0,0,5,15,6,1,1501
+R0104,20,Female,Other,Dubai,Student,Bachelor,7,0,None,0,1,Intermediate,Medium,No,Medium,6.9,1,1,0,1,0,0,1,4,26,9,1,894
+R0105,40,Male,Indian,Sharjah,Self-Employed,Bachelor,9,20001,Irregular,493,1,Advanced,High,No,Medium,3.7,2,1,1,0,0,0,0,7,148,8,1,3173
+R0106,40,Male,Pakistani,Dubai,Unemployed,Master,0,12718,Irregular,104,1,Intermediate,Medium,Yes,Low,4.4,4,1,1,1,1,1,0,10,84,7,1,1901
+R0107,40,Female,British,Abu Dhabi,Employed,Bachelor,7,21843,Regular,3035,0,None,Low,No,High,4.4,3,1,1,0,0,0,1,5,78,7,1,1582
+R0108,37,Female,Other,Dubai,Employed,Bachelor,9,15214,Regular,3472,0,None,Low,No Preference,Medium,3.4,1,1,1,1,1,1,1,4,25,9,1,2144
+R0109,32,Male,Emirati,Abu Dhabi,Employed,PhD,27,24522,Regular,4920,0,Beginner,Medium,No Preference,High,7.5,4,1,1,0,1,1,0,9,64,10,1,2590
+R0110,38,Female,Pakistani,Dubai,Employed,Bachelor,1,14297,None,0,1,Intermediate,Low,Yes,Medium,3.6,3,1,1,1,1,0,0,1,46,7,1,1196
+R0111,27,Female,British,Abu Dhabi,Student,Master,4,8045,Regular,1453,0,Beginner,Low,No Preference,Medium,4.1,2,1,0,1,0,1,1,9,92,5,0,1432
+R0112,40,Male,British,Dubai,Unemployed,High School,3,0,None,0,0,None,Low,No Preference,Medium,8.0,0,1,1,1,1,1,1,6,7,9,1,0
+R0113,34,Male,British,Abu Dhabi,Unemployed,Bachelor,10,9366,Regular,3351,0,None,Low,Yes,Medium,4.4,2,1,0,0,0,1,1,1,22,5,0,560
+R0114,31,Male,Pakistani,Dubai,Employed,Master,5,15969,Regular,2991,0,None,Medium,Yes,Medium,5.1,4,1,1,1,1,0,0,3,73,7,1,2369
+R0115,33,Female,Indian,Dubai,Student,Master,9,0,None,0,1,Intermediate,Medium,Yes,Low,3.5,2,1,1,1,1,1,1,7,25,7,1,1348
+R0116,34,Male,Other,Abu Dhabi,Self-Employed,Master,11,20914,Irregular,655,0,Beginner,Low,No Preference,Medium,7.2,0,0,1,1,0,1,1,8,194,8,1,1819
+R0117,20,Female,Other,Dubai,Self-Employed,Bachelor,12,23386,Irregular,925,0,None,Medium,Yes,High,7.2,0,1,1,0,1,1,1,2,188,5,1,1622
+R0118,23,Female,British,Dubai,Employed,Bachelor,2,15526,Irregular,1253,1,Intermediate,Low,No,Low,7.0,4,1,0,0,0,0,0,7,59,5,0,1212
+R0119,26,Male,Indian,Dubai,Employed,Bachelor,14,20769,Irregular,1368,1,Beginner,Medium,No Preference,Low,6.6,2,1,1,1,0,0,1,10,189,8,1,1856
+R0120,22,Female,Indian,Dubai,Self-Employed,Bachelor,2,19085,Regular,4443,0,None,Low,No Preference,High,5.6,3,1,1,1,0,1,1,7,81,6,1,2061
+R0121,31,Female,British,Dubai,Employed,Bachelor,0,21101,Irregular,157,0,Beginner,High,No Preference,Medium,4.5,1,1,0,0,1,0,1,8,145,1,0,1705
+R0122,37,Male,Indian,Ajman,Employed,Bachelor,0,20211,Irregular,965,1,Advanced,High,No Preference,High,3.9,0,1,1,1,0,0,1,2,111,9,1,3596
+R0123,37,Male,Other,Dubai,Unemployed,Bachelor,3,3695,Irregular,1052,0,None,Medium,Yes,High,8.1,2,1,1,0,1,1,1,7,3,6,1,656
+R0124,32,Male,Emirati,Sharjah,Unemployed,Bachelor,20,1793,Irregular,182,0,None,Low,No Preference,High,7.0,3,1,1,1,0,1,0,8,17,7,1,482
+R0125,42,Male,British,Other,Self-Employed,Bachelor,3,22757,None,0,1,Advanced,Low,Yes,Medium,4.1,1,1,1,0,1,0,0,2,74,1,0,2384
+R0126,34,Male,Other,Dubai,Student,Bachelor,11,5751,Irregular,382,0,None,Low,Yes,Medium,5.6,3,0,1,1,1,0,1,4,10,5,1,780
+R0127,22,Female,Emirati,Abu Dhabi,Employed,Master,7,28308,Irregular,1346,0,Beginner,High,No Preference,High,4.9,2,1,1,0,0,1,0,9,135,9,1,2834
+R0128,39,Male,Emirati,Sharjah,Employed,Master,40,22697,Irregular,871,0,None,Low,Yes,High,3.2,1,0,1,0,0,1,0,10,55,6,1,1206
+R0129,34,Male,Filipino,Abu Dhabi,Employed,Bachelor,7,22879,Irregular,550,1,Intermediate,High,Yes,High,5.9,1,1,1,0,1,1,1,2,67,10,1,2709
+R0130,36,Female,Pakistani,Dubai,Student,Master,0,18442,Irregular,182,1,Intermediate,Medium,No,Medium,4.7,1,1,1,0,0,1,0,8,82,7,1,2029
+R0131,34,Female,Emirati,Dubai,Employed,Master,3,20579,Regular,4626,0,None,Medium,Yes,Low,3.6,1,1,1,1,1,0,1,6,129,5,1,1925
+R0132,34,Female,Filipino,Dubai,Student,Bachelor,8,5423,Irregular,1138,1,Beginner,High,Yes,Medium,2.5,3,1,0,1,1,0,0,6,36,9,1,1993
+R0133,22,Female,Other,Abu Dhabi,Employed,Bachelor,8,21520,Irregular,628,0,None,Low,No,Medium,2.4,1,1,1,1,0,1,0,6,126,5,1,1547
+R0134,34,Male,Pakistani,Other,Student,High School,4,0,None,0,0,Beginner,High,No Preference,Low,4.8,3,1,1,1,0,0,0,9,25,7,1,1469
+R0135,40,Male,Indian,Other,Employed,High School,12,15780,Regular,3156,1,Intermediate,Low,No Preference,High,5.3,1,1,0,1,0,1,1,5,84,8,1,1934
+R0136,27,Non-binary/Other,Emirati,Dubai,Employed,Master,8,15469,Irregular,1388,0,Beginner,High,Yes,Low,3.7,1,0,1,0,1,1,1,6,36,9,1,1956
+R0137,35,Female,Emirati,Abu Dhabi,Employed,PhD,6,21238,None,0,0,None,Medium,No,High,6.8,4,0,1,0,0,0,0,7,121,7,1,1134
+R0138,20,Female,Indian,Dubai,Employed,High School,6,17129,Irregular,242,0,None,Low,No Preference,High,5.4,4,1,1,1,0,1,0,6,53,10,1,1428
+R0139,29,Male,Indian,Ajman,Self-Employed,Master,1,22691,None,0,0,Beginner,High,Yes,Medium,6.7,2,1,1,0,1,0,0,9,91,1,0,1713
+R0140,31,Female,Filipino,Dubai,Employed,High School,14,23437,Irregular,1415,1,Intermediate,Low,Yes,Medium,5.1,1,1,1,1,0,1,1,3,77,7,1,2076
+R0141,45,Female,Emirati,Ajman,Employed,Bachelor,14,22315,Irregular,552,1,Intermediate,Low,Yes,High,3.9,3,0,1,1,1,1,1,10,56,7,1,2286
+R0142,25,Male,Other,Sharjah,Student,Master,4,2191,None,0,0,Beginner,High,No,Medium,5.7,0,0,1,1,1,1,1,7,25,9,1,1221
+R0143,27,Female,Indian,Dubai,Student,Bachelor,10,0,None,0,0,None,Medium,Yes,Medium,3.0,2,1,0,1,1,0,0,10,25,2,0,421
+R0144,30,Female,Indian,Dubai,Employed,High School,10,23676,Regular,4915,0,None,High,No Preference,High,6.6,2,1,1,0,0,1,1,4,79,5,1,3239
+R0145,45,Male,British,Sharjah,Employed,Bachelor,9,21869,None,0,0,Beginner,Medium,No Preference,High,3.6,3,1,1,1,0,1,0,5,90,9,1,2278
+R0146,42,Male,Other,Dubai,Employed,PhD,0,9968,Irregular,1276,1,Beginner,Medium,Yes,High,7.3,0,1,1,0,1,1,0,1,53,7,1,1570
+R0147,20,Female,Indian,Abu Dhabi,Student,Bachelor,14,1434,None,0,0,Beginner,Low,No,High,4.8,0,0,1,0,0,1,0,10,20,7,1,526
+R0148,26,Male,Indian,Ajman,Employed,Bachelor,15,18827,Regular,3960,1,Intermediate,Low,Yes,Medium,7.6,1,1,1,0,1,0,0,9,41,5,1,2264
+R0149,41,Male,Indian,Abu Dhabi,Employed,Bachelor,15,21894,Irregular,462,1,Beginner,High,Yes,High,3.3,0,1,0,0,1,1,0,3,59,10,1,2126
+R0150,21,Male,Pakistani,Dubai,Employed,Bachelor,15,22550,Irregular,125,0,None,Low,No Preference,High,4.1,2,1,1,1,0,0,1,1,160,5,1,1258
+R0151,42,Male,Pakistani,Dubai,Student,Bachelor,14,4419,None,0,0,None,Medium,No,High,6.3,4,1,1,0,0,1,0,7,13,10,1,671
+R0152,27,Female,Indian,Dubai,Employed,Master,11,20926,None,0,0,None,Low,No Preference,High,7.8,1,1,0,0,0,0,1,7,58,5,1,888
+R0153,43,Female,Indian,Other,Self-Employed,Master,0,22320,Irregular,1214,1,Intermediate,Low,No,High,8.8,2,0,0,1,0,0,1,6,135,8,1,2129
+R0154,27,Male,Pakistani,Dubai,Employed,Master,7,14630,Irregular,815,0,Beginner,Medium,Yes,High,5.6,1,1,1,1,0,1,1,2,77,5,1,1974
+R0155,31,Non-binary/Other,Other,Dubai,Student,Master,3,1693,None,0,0,None,High,No,Medium,9.2,0,1,1,1,0,0,0,10,14,7,1,1540
+R0156,37,Female,Filipino,Dubai,Employed,Bachelor,3,18094,Regular,4475,0,None,High,Yes,High,4.9,3,1,1,1,1,1,1,5,27,10,1,3019
+R0157,23,Male,Pakistani,Other,Employed,Bachelor,13,17826,Regular,4333,0,None,High,No Preference,Medium,7.7,1,1,1,1,0,0,0,8,32,8,1,3396
+R0158,34,Female,Indian,Dubai,Employed,Bachelor,13,8572,Regular,1559,0,Beginner,Low,No Preference,Medium,3.6,2,1,1,0,0,1,0,9,87,2,0,729
+R0159,33,Male,Indian,Sharjah,Self-Employed,Bachelor,8,20012,Irregular,125,0,Beginner,Medium,Yes,High,6.3,3,1,0,1,1,1,0,6,138,5,1,1374
+R0160,40,Non-binary/Other,Indian,Abu Dhabi,Self-Employed,PhD,11,22281,None,0,1,Intermediate,Low,No,High,1.0,4,1,1,0,0,1,1,1,112,10,1,1928
+R0161,45,Female,British,Sharjah,Employed,Master,2,16593,Irregular,1055,1,Beginner,Medium,No Preference,Medium,3.3,0,1,1,1,0,0,1,9,92,7,1,1709
+R0162,37,Female,Other,Other,Employed,PhD,3,16765,Irregular,895,0,Beginner,Medium,No Preference,Medium,6.4,2,0,1,1,0,0,1,7,40,8,1,1835
+R0163,30,Male,Other,Sharjah,Self-Employed,Bachelor,13,24439,None,0,0,None,Medium,Yes,Medium,2.9,4,1,1,1,1,0,1,9,112,10,1,1391
+R0164,30,Female,Other,Ajman,Employed,Bachelor,7,12605,None,0,1,Intermediate,Low,Yes,Medium,6.4,2,1,0,1,1,0,1,7,99,8,1,1260
+R0165,30,Male,Other,Dubai,Employed,Bachelor,8,9859,Irregular,852,1,Advanced,High,Yes,Medium,7.3,0,1,1,1,0,1,1,10,70,9,1,2513
+R0166,41,Male,Other,Sharjah,Employed,Bachelor,7,16259,Irregular,1122,0,Beginner,High,No,High,4.5,1,1,1,1,1,0,1,9,35,6,1,2207
+R0167,28,Male,Indian,Abu Dhabi,Student,Bachelor,3,6820,None,0,0,Beginner,High,No,Medium,3.6,3,1,0,1,0,0,0,3,18,6,0,1523
+R0168,24,Female,Indian,Abu Dhabi,Student,Bachelor,13,11437,Irregular,1429,1,Intermediate,Low,Yes,High,4.6,3,1,1,1,1,0,1,2,28,8,1,1785
+R0169,28,Male,Emirati,Ajman,Student,High School,37,6910,None,0,0,None,High,No,Medium,3.6,1,1,1,1,1,1,1,2,31,6,1,1817
+R0170,20,Female,Pakistani,Other,Unemployed,PhD,10,0,Irregular,1172,0,None,Low,No,High,5.3,0,1,1,0,0,0,1,8,8,7,1,437
+R0171,22,Female,Indian,Abu Dhabi,Employed,Bachelor,5,16838,Regular,1467,0,Beginner,Medium,Yes,Medium,5.7,1,0,0,1,0,0,0,3,25,5,0,1549
+R0172,22,Male,Other,Abu Dhabi,Employed,Bachelor,10,19283,Irregular,1328,1,Beginner,Low,No Preference,High,4.9,1,1,0,0,0,1,0,5,51,10,1,1612
+R0173,40,Male,Filipino,Dubai,Employed,Master,15,18887,Regular,4620,0,None,Low,No,High,8.8,3,1,1,1,0,0,1,8,83,9,1,2202
+R0174,38,Male,Pakistani,Dubai,Employed,High School,10,20696,Irregular,827,1,Intermediate,Medium,No,High,4.1,4,1,1,0,1,1,0,5,80,10,1,2171
+R0175,38,Female,Indian,Dubai,Employed,Master,7,13414,Regular,556,1,Beginner,Low,No,High,8.3,0,1,0,1,0,0,0,1,49,10,1,1275
+R0176,32,Female,Indian,Dubai,Employed,Master,4,18324,Irregular,1265,0,None,Medium,Yes,Medium,3.4,3,0,1,0,1,1,1,4,20,6,0,1631
+R0177,38,Male,Indian,Dubai,Employed,High School,8,20101,Irregular,879,0,None,Medium,No Preference,Low,5.6,3,1,0,0,0,1,1,1,180,5,0,1373
+R0178,24,Female,Other,Dubai,Student,Master,5,7128,Irregular,356,1,Intermediate,High,No,Medium,7.9,3,0,0,1,0,1,1,4,38,8,1,2073
+R0179,43,Male,Pakistani,Sharjah,Employed,Master,9,13971,Irregular,1499,0,None,Medium,No,High,7.8,4,0,1,0,0,1,1,8,42,10,1,1754
+R0180,33,Female,British,Dubai,Employed,Master,0,16274,Irregular,195,1,Intermediate,Medium,No Preference,Medium,4.7,0,1,1,1,1,1,0,6,61,8,1,1942
+R0181,44,Female,Indian,Ajman,Student,Master,3,0,Regular,3395,0,None,Low,No Preference,Medium,6.6,3,1,1,1,0,1,0,7,0,5,1,670
+R0182,23,Female,Emirati,Abu Dhabi,Student,Master,40,0,Irregular,1018,0,Beginner,High,No Preference,Medium,6.3,0,1,1,0,0,1,1,2,33,5,0,1185
+R0183,32,Female,Emirati,Dubai,Student,Bachelor,7,377,Irregular,920,0,None,Low,Yes,Medium,4.4,4,1,1,0,1,1,0,8,35,3,0,0
+R0184,38,Female,British,Dubai,Self-Employed,Bachelor,6,16902,Regular,3432,0,Beginner,Low,Yes,High,6.7,2,1,1,1,1,1,1,5,82,5,1,1515
+R0185,32,Male,British,Dubai,Student,Master,8,3828,None,0,0,None,Low,No Preference,High,9.2,0,1,0,1,0,1,1,3,29,8,1,388
+R0186,31,Male,Indian,Other,Employed,PhD,7,17720,Irregular,1349,0,None,Medium,No,High,6.4,3,1,0,1,0,0,1,7,88,8,1,2290
+R0187,24,Male,Other,Dubai,Employed,Bachelor,12,6703,Irregular,435,0,Beginner,Medium,No Preference,High,6.6,3,1,0,0,1,0,1,2,29,2,0,1011
+R0188,29,Male,Indian,Abu Dhabi,Student,Master,3,4077,None,0,0,None,Medium,No Preference,High,6.8,2,1,1,1,1,1,1,5,23,9,1,957
+R0189,26,Female,Other,Ajman,Employed,Bachelor,12,13358,Irregular,1302,1,Beginner,Medium,Yes,Medium,2.6,1,1,1,1,1,0,1,5,92,5,1,1189
+R0190,27,Female,Indian,Other,Employed,Master,3,20428,Regular,4357,0,None,Medium,Yes,High,6.4,0,1,0,0,1,1,0,2,75,7,1,2424
+R0191,37,Female,Indian,Dubai,Employed,PhD,5,11590,None,0,1,Intermediate,Medium,No,Low,3.5,4,1,1,0,1,0,0,10,46,4,0,1608
+R0192,36,Male,Other,Dubai,Employed,Bachelor,9,18150,Regular,1480,0,Beginner,Low,Yes,High,4.3,0,1,1,0,1,1,0,4,31,8,1,1204
+R0193,35,Female,Indian,Dubai,Employed,Bachelor,14,16584,Regular,3730,1,Intermediate,Medium,No Preference,High,9.8,4,0,0,0,0,1,1,1,90,6,1,2629
+R0194,29,Male,Emirati,Dubai,Employed,Bachelor,3,19515,Irregular,780,1,Intermediate,Medium,No Preference,Medium,5.0,2,0,0,1,0,1,0,5,42,5,1,2483
+R0195,44,Male,Emirati,Dubai,Self-Employed,Bachelor,14,22623,Irregular,977,0,None,Medium,No,Medium,4.0,3,1,0,1,0,1,1,10,134,1,0,1709
+R0196,22,Female,Indian,Abu Dhabi,Self-Employed,Bachelor,1,20724,None,0,1,Beginner,Low,No Preference,Medium,7.8,3,1,0,1,0,0,1,7,171,10,1,1636
+R0197,28,Non-binary/Other,British,Ajman,Employed,High School,1,10318,Regular,1188,1,Beginner,Medium,No,Medium,3.6,4,1,1,1,1,0,0,7,91,5,1,2013
+R0198,23,Female,Other,Abu Dhabi,Self-Employed,Bachelor,12,14613,Irregular,439,0,None,Medium,No Preference,High,4.6,0,1,0,0,0,1,1,10,82,5,1,1150
+R0199,28,Male,Other,Abu Dhabi,Employed,Bachelor,11,15080,Irregular,1158,1,Intermediate,Low,Yes,Medium,8.0,4,1,1,1,1,1,0,1,60,7,1,1625
+R0200,45,Female,Emirati,Dubai,Self-Employed,Bachelor,7,21958,Irregular,858,1,Beginner,Low,No Preference,Medium,5.6,0,1,1,0,0,1,0,6,115,5,0,1416
+R0201,29,Male,Pakistani,Sharjah,Unemployed,Master,9,958,None,0,0,None,Medium,No Preference,Medium,2.4,4,1,1,0,0,1,0,4,21,6,0,704
+R0202,43,Female,Indian,Abu Dhabi,Employed,Master,6,21126,Regular,3538,1,Intermediate,Medium,Yes,Medium,6.6,1,1,1,1,1,1,0,7,69,6,1,2696
+R0203,32,Female,Indian,Sharjah,Student,Master,4,1603,None,0,1,Beginner,Medium,No,Low,4.7,4,1,1,0,1,1,1,9,16,2,0,854
+R0204,38,Male,Indian,Ajman,Unemployed,Master,6,0,None,0,1,Beginner,Low,No Preference,Medium,8.6,0,0,1,1,0,1,1,1,0,9,1,297
+R0205,31,Male,Other,Dubai,Self-Employed,Master,4,20609,Regular,4144,1,Intermediate,High,Yes,Medium,4.3,2,1,1,1,1,1,1,2,176,6,1,3632
+R0206,26,Male,Other,Dubai,Unemployed,Bachelor,13,5129,None,0,1,Beginner,Low,No Preference,Medium,7.6,2,0,1,1,1,0,1,10,20,9,1,587
+R0207,39,Non-binary/Other,British,Dubai,Student,Master,6,4624,Irregular,936,1,Intermediate,Medium,No Preference,Medium,9.1,4,1,0,1,1,0,1,5,20,9,1,1548
+R0208,45,Male,Pakistani,Dubai,Employed,Bachelor,5,27391,Regular,1790,0,Beginner,High,No Preference,Medium,3.8,0,1,1,0,1,1,1,4,59,6,0,3184
+R0209,26,Female,Pakistani,Ajman,Self-Employed,Bachelor,8,18655,Regular,3120,0,None,Medium,No,High,5.1,0,0,1,0,0,1,1,2,54,10,1,1534
+R0210,40,Female,Pakistani,Dubai,Student,Bachelor,12,2632,Irregular,765,1,Beginner,Low,No,Medium,6.3,3,0,1,1,0,1,0,4,31,6,1,930
+R0211,26,Female,Pakistani,Sharjah,Student,Master,4,5130,Irregular,1192,1,Intermediate,Medium,No Preference,Medium,3.8,0,1,1,1,0,0,1,1,7,9,1,2314
+R0212,38,Male,Emirati,Abu Dhabi,Employed,Master,31,17882,Regular,2971,0,None,High,No,High,6.0,3,1,1,1,1,0,1,3,98,9,1,2794
+R0213,40,Female,Indian,Dubai,Student,High School,7,496,Irregular,714,0,Beginner,High,Yes,Medium,5.1,0,1,1,0,0,1,0,2,7,0,0,768
+R0214,31,Male,Indian,Dubai,Employed,Bachelor,10,10253,Irregular,305,0,None,Low,Yes,Low,5.0,4,0,1,0,1,0,0,1,45,0,0,189
+R0215,39,Female,Other,Abu Dhabi,Student,Bachelor,15,445,Irregular,1102,0,None,High,No Preference,High,5.6,2,1,1,0,1,1,0,10,28,8,1,817
+R0216,27,Female,Pakistani,Abu Dhabi,Employed,Master,6,12631,Regular,2804,1,Beginner,Medium,No,Medium,5.6,4,1,1,1,0,0,0,8,73,5,1,2140
+R0217,22,Female,Other,Dubai,Student,Master,3,0,None,0,0,None,Low,Yes,High,5.8,0,1,1,1,1,1,1,10,18,7,1,368
+R0218,22,Female,Indian,Dubai,Self-Employed,Bachelor,11,18021,Regular,1469,0,None,Medium,Yes,High,4.3,1,1,1,1,1,1,0,3,74,10,1,1513
+R0219,31,Male,Pakistani,Abu Dhabi,Employed,Bachelor,0,12764,Irregular,1331,0,None,Medium,No Preference,High,4.4,2,0,0,0,0,0,1,3,22,5,1,1043
+R0220,43,Male,Indian,Dubai,Employed,Bachelor,7,20918,Regular,4723,1,Intermediate,Medium,No,High,5.3,0,1,1,1,0,0,1,3,78,5,1,3047
+R0221,23,Male,Indian,Ajman,Employed,Bachelor,15,21005,Regular,3889,1,Intermediate,High,No Preference,Medium,5.4,0,1,0,0,0,0,0,6,119,0,0,3174
+R0222,31,Male,Indian,Dubai,Unemployed,Master,6,0,Irregular,816,1,Beginner,Medium,No Preference,High,4.6,1,1,1,0,0,0,1,2,23,8,1,1359
+R0223,38,Male,Indian,Dubai,Student,Master,10,1698,Irregular,217,1,Intermediate,Medium,No Preference,Medium,6.1,3,1,1,0,0,0,1,3,23,6,0,848
+R0224,25,Male,Other,Abu Dhabi,Employed,Bachelor,8,8708,Irregular,331,1,Beginner,Medium,No Preference,High,1.9,3,0,1,1,1,1,1,10,31,6,1,1109
+R0225,38,Male,Emirati,Abu Dhabi,Employed,Bachelor,17,15528,Irregular,1416,0,None,Low,Yes,Medium,4.0,0,0,1,1,1,0,0,4,22,6,1,1020
+R0226,27,Male,Filipino,Abu Dhabi,Employed,High School,5,19994,Irregular,926,1,Intermediate,Medium,No Preference,Low,4.9,0,0,1,0,0,1,1,8,58,9,1,2376
+R0227,41,Male,Pakistani,Dubai,Employed,Bachelor,8,22124,Regular,3354,0,None,High,Yes,Low,3.8,3,1,1,1,1,0,0,3,167,7,1,2865
+R0228,35,Female,Emirati,Other,Self-Employed,Bachelor,30,18434,Irregular,337,1,Beginner,Medium,No Preference,Low,8.8,1,0,1,1,0,1,0,10,60,9,1,1620
+R0229,34,Female,Pakistani,Abu Dhabi,Student,Bachelor,6,8259,Regular,1748,1,Intermediate,Low,Yes,Low,5.5,3,1,1,0,1,1,0,7,32,0,0,1254
+R0230,24,Male,Indian,Dubai,Employed,PhD,6,10421,Irregular,1113,0,None,Medium,No Preference,Medium,5.9,1,0,1,0,0,1,0,9,81,2,0,906
+R0231,32,Male,Other,Dubai,Self-Employed,Bachelor,13,15761,Regular,4414,0,None,High,No Preference,High,4.5,1,1,1,1,0,1,1,6,50,6,1,2860
+R0232,42,Male,Other,Dubai,Employed,Bachelor,1,21548,Irregular,373,1,Beginner,High,Yes,Medium,5.5,1,1,1,1,1,0,0,10,155,8,1,3257
+R0233,20,Female,British,Abu Dhabi,Self-Employed,Bachelor,13,30355,Regular,2645,0,None,Medium,No Preference,High,3.1,1,1,0,1,0,1,1,4,151,6,1,2912
+R0234,39,Male,Pakistani,Dubai,Employed,Bachelor,6,20467,Irregular,1354,1,Advanced,Medium,Yes,High,5.2,3,0,1,0,1,0,0,5,75,10,1,2866
+R0235,32,Male,Indian,Abu Dhabi,Student,Master,10,2798,None,0,1,Intermediate,Medium,No,High,3.6,2,1,1,1,0,1,1,1,4,7,1,1240
+R0236,38,Male,Other,Dubai,Self-Employed,Bachelor,8,11024,Irregular,136,0,None,High,No,Medium,4.9,3,0,0,1,0,1,0,2,97,3,0,1275
+R0237,37,Male,Emirati,Other,Employed,Master,37,7887,None,0,1,Intermediate,High,No,High,1.0,0,1,1,0,0,1,1,8,10,7,1,2014
+R0238,31,Male,Indian,Dubai,Student,Master,14,3647,Regular,1728,0,None,High,No,High,3.2,2,1,0,1,0,1,1,4,19,7,1,1832
+R0239,28,Female,Emirati,Ajman,Unemployed,Bachelor,45,2209,Irregular,1187,1,Beginner,Medium,No Preference,High,8.4,2,1,1,1,0,1,0,2,5,7,1,1108
+R0240,36,Female,British,Dubai,Employed,Master,0,12470,Irregular,548,0,Beginner,Low,Yes,High,7.2,4,0,0,0,1,1,1,3,26,7,1,1297
+R0241,23,Female,Filipino,Dubai,Employed,PhD,12,18327,Irregular,518,0,None,Medium,No,Medium,8.1,2,1,1,1,0,0,0,4,27,7,1,1726
+R0242,35,Female,British,Sharjah,Student,Bachelor,9,3575,None,0,1,Beginner,Low,No Preference,Medium,8.3,0,1,1,1,0,0,1,8,23,10,1,911
+R0243,22,Female,British,Abu Dhabi,Employed,High School,14,22722,Irregular,403,1,Beginner,Low,No Preference,High,6.8,3,1,1,0,0,0,1,1,172,9,1,1506
+R0244,36,Male,Indian,Sharjah,Employed,Master,7,18683,Regular,1720,0,None,Medium,Yes,Medium,4.6,0,1,1,1,1,1,0,1,68,5,1,1925
+R0245,36,Female,Other,Dubai,Employed,Master,0,24141,Regular,3667,0,None,Medium,No Preference,High,3.4,4,1,1,1,0,1,0,8,172,5,1,2354
+R0246,22,Male,Emirati,Abu Dhabi,Student,Bachelor,15,3039,Irregular,1278,0,Beginner,High,Yes,Low,7.8,1,0,1,1,1,0,0,2,1,5,1,1664
+R0247,39,Male,Filipino,Sharjah,Employed,Bachelor,6,17423,Regular,4820,0,None,High,No,Low,5.6,3,1,1,1,0,1,1,5,36,9,1,3188
+R0248,30,Female,Indian,Abu Dhabi,Employed,Bachelor,3,23321,Regular,738,0,Beginner,High,No,Medium,10.5,3,1,0,1,0,0,1,7,151,6,1,2461
+R0249,40,Male,Other,Dubai,Self-Employed,Master,14,17107,Irregular,803,1,Advanced,High,No Preference,Low,4.8,2,1,0,0,1,1,0,6,49,0,0,3148
+R0250,21,Male,Indian,Abu Dhabi,Employed,Bachelor,1,32072,Regular,2031,0,None,Medium,Yes,High,9.4,2,0,1,1,1,1,0,2,175,9,1,2385
+R0251,24,Female,Indian,Abu Dhabi,Self-Employed,High School,14,23876,Regular,797,1,Intermediate,Low,Yes,Low,5.2,0,1,1,1,1,1,0,8,91,5,1,2487
+R0252,32,Female,Pakistani,Other,Employed,Master,3,19904,Irregular,315,0,None,Medium,No Preference,High,8.2,0,1,1,1,0,1,1,1,47,5,1,1852
+R0253,24,Female,Indian,Dubai,Unemployed,PhD,1,6625,None,0,1,Beginner,Low,Yes,Medium,8.9,3,1,1,1,1,0,0,3,35,5,1,471
+R0254,28,Male,Indian,Dubai,Student,Master,4,12385,Regular,1291,1,Intermediate,Low,No,High,3.5,4,1,0,0,0,0,0,2,47,6,1,1410
+R0255,37,Male,Filipino,Sharjah,Employed,Bachelor,2,21962,Irregular,306,0,Beginner,Low,No Preference,Medium,4.5,4,1,1,1,0,1,1,6,105,5,1,1939
+R0256,23,Female,Emirati,Abu Dhabi,Self-Employed,High School,5,13974,Regular,1494,0,None,High,No Preference,Low,3.4,1,1,1,0,1,1,0,7,86,2,0,1420
+R0257,37,Male,Other,Sharjah,Employed,PhD,5,25017,Regular,2962,0,None,Medium,Yes,Low,3.0,1,1,1,0,1,0,1,7,193,0,0,1922
+R0258,22,Female,Emirati,Dubai,Employed,PhD,31,16295,Regular,1402,0,Beginner,High,Yes,Medium,6.8,1,1,1,1,1,1,0,2,53,6,1,2374
+R0259,24,Male,British,Dubai,Employed,Bachelor,8,18535,Irregular,270,0,None,High,No Preference,High,5.1,3,1,1,1,0,1,0,4,79,8,1,2721
+R0260,35,Male,Pakistani,Sharjah,Student,Master,0,0,None,0,0,None,High,No,High,5.6,3,1,0,1,1,1,1,2,16,6,1,898
+R0261,40,Male,Filipino,Dubai,Employed,Bachelor,1,20631,Regular,572,0,None,Low,Yes,Medium,6.6,3,1,1,1,1,1,0,4,163,5,1,1595
+R0262,24,Female,Pakistani,Dubai,Employed,Bachelor,2,14743,Irregular,826,0,None,High,Yes,Medium,1.8,4,1,1,0,1,1,0,3,65,1,0,1780
+R0263,27,Male,Pakistani,Abu Dhabi,Employed,Bachelor,3,18500,Regular,2453,0,Beginner,High,Yes,Low,8.1,1,0,1,1,1,0,1,8,37,9,1,2539
+R0264,44,Male,Other,Sharjah,Employed,High School,1,16579,Irregular,1014,0,None,High,No Preference,Medium,4.8,3,0,1,0,0,0,1,8,65,3,0,1880
+R0265,45,Male,Emirati,Ajman,Employed,Bachelor,24,27625,Regular,2073,0,Beginner,Low,Yes,Medium,6.6,2,1,1,1,1,1,1,9,190,9,1,2161
+R0266,35,Male,Indian,Dubai,Employed,Master,8,27911,Regular,1728,1,Intermediate,Low,Yes,Medium,6.7,4,1,1,1,1,1,0,3,142,10,1,2534
+R0267,31,Male,Filipino,Dubai,Employed,Bachelor,4,18232,Irregular,865,0,None,High,No,High,8.2,1,1,1,1,1,1,0,1,36,5,1,1686
+R0268,29,Female,Other,Other,Employed,Bachelor,5,18319,Irregular,714,1,Beginner,Low,Yes,High,5.3,0,0,1,0,1,0,0,1,67,5,1,1251
+R0269,35,Male,Indian,Dubai,Student,Bachelor,7,1132,None,0,1,Intermediate,Medium,Yes,Low,1.3,1,1,1,1,0,0,1,9,8,6,1,1626
+R0270,35,Female,Emirati,Dubai,Employed,Bachelor,33,23530,Regular,4632,0,Beginner,Medium,No Preference,Medium,5.6,3,1,1,1,0,1,1,10,151,10,1,3020
+R0271,27,Female,Other,Dubai,Student,Bachelor,5,1355,None,0,1,Beginner,Low,No Preference,Medium,5.9,4,1,1,1,0,1,1,3,35,5,1,895
+R0272,20,Male,British,Abu Dhabi,Employed,Bachelor,3,15893,Irregular,1159,0,Beginner,Low,Yes,Low,3.4,4,0,1,0,1,0,1,9,72,3,0,1401
+R0273,23,Male,Other,Ajman,Employed,Bachelor,6,22892,Irregular,567,0,Beginner,High,No,Medium,5.8,0,1,1,0,0,0,0,6,97,2,0,2240
+R0274,44,Female,Pakistani,Sharjah,Employed,Master,0,15308,None,0,1,Beginner,High,Yes,High,4.8,2,1,1,0,0,1,1,2,31,5,1,1577
+R0275,30,Male,Filipino,Abu Dhabi,Employed,Master,7,17811,Irregular,1286,0,None,High,Yes,Low,2.8,0,1,1,0,0,1,0,4,51,5,1,1802
+R0276,32,Male,Emirati,Dubai,Employed,Bachelor,2,10093,Regular,2586,1,Intermediate,Low,No,High,6.8,1,1,1,1,0,1,0,3,99,5,1,1481
+R0277,32,Female,Other,Dubai,Self-Employed,Master,6,25520,Regular,1403,0,None,Low,No,High,4.4,4,0,0,1,1,1,1,8,56,5,1,1776
+R0278,40,Non-binary/Other,Emirati,Dubai,Employed,Master,35,27704,Irregular,1217,0,None,Medium,No Preference,High,4.7,4,1,1,0,1,1,1,2,73,8,1,2072
+R0279,21,Female,British,Dubai,Employed,Master,11,21606,Irregular,1190,1,Beginner,Medium,No Preference,High,4.6,0,1,0,1,0,0,0,2,79,10,1,2733
+R0280,22,Male,Emirati,Dubai,Student,Master,17,10308,Irregular,1145,1,Advanced,Low,Yes,Medium,8.0,0,1,1,0,1,1,0,8,53,3,0,2103
+R0281,27,Female,Pakistani,Dubai,Employed,Master,3,13769,Irregular,813,1,Intermediate,High,No Preference,Low,5.4,3,0,0,0,0,1,1,4,24,6,1,1992
+R0282,32,Female,British,Dubai,Employed,Master,2,19181,Regular,1068,0,None,High,No,Medium,5.7,2,1,1,1,0,1,0,3,44,6,1,1841
+R0283,37,Male,Pakistani,Abu Dhabi,Employed,Master,14,13284,Irregular,935,1,Advanced,Medium,Yes,High,4.6,2,1,1,0,1,1,1,9,89,10,1,2389
+R0284,32,Female,Other,Abu Dhabi,Employed,High School,15,16861,Regular,1060,0,None,Medium,No Preference,High,6.4,4,0,1,1,0,1,1,10,51,10,1,1999
+R0285,31,Male,Emirati,Dubai,Employed,PhD,21,21861,Regular,3484,1,Intermediate,Medium,Yes,Medium,8.2,4,1,0,1,1,1,0,6,64,8,1,3024
+R0286,44,Male,Filipino,Abu Dhabi,Student,Bachelor,9,3509,Irregular,755,0,Beginner,Low,No,Medium,6.8,4,1,1,1,0,0,0,9,39,7,1,989
+R0287,24,Male,Emirati,Sharjah,Self-Employed,Master,3,14936,Regular,4061,1,Advanced,Low,No Preference,Medium,6.9,3,1,1,0,0,1,0,9,80,5,1,2705
+R0288,34,Male,Emirati,Sharjah,Employed,Bachelor,2,11424,Regular,4415,0,None,Medium,Yes,Medium,6.7,4,1,1,1,1,0,1,6,72,10,1,2369
+R0289,34,Male,Emirati,Sharjah,Student,High School,12,0,None,0,1,Beginner,Medium,No Preference,High,2.7,3,1,1,0,0,0,0,9,22,5,1,121
+R0290,32,Female,Indian,Dubai,Student,Bachelor,15,5457,Irregular,1386,0,Beginner,Medium,Yes,Medium,3.7,4,1,1,1,1,1,1,1,31,5,1,1931
+R0291,40,Non-binary/Other,Indian,Sharjah,Employed,Bachelor,11,28319,None,0,0,None,High,No Preference,Medium,5.1,2,0,1,0,1,1,0,1,144,3,0,1882
+R0292,26,Female,Filipino,Dubai,Student,Bachelor,1,9812,Irregular,625,1,Intermediate,Low,Yes,Medium,4.0,0,1,1,1,1,1,1,9,91,6,1,1754
+R0293,44,Female,Filipino,Dubai,Student,Bachelor,6,0,None,0,0,Beginner,Low,Yes,Low,3.4,4,0,1,0,1,1,0,2,33,4,0,118
+R0294,28,Non-binary/Other,Filipino,Dubai,Self-Employed,Bachelor,15,29105,Irregular,1325,1,Intermediate,Low,No,Medium,1.8,4,1,1,1,1,1,0,8,172,8,1,2586
+R0295,34,Male,Indian,Dubai,Unemployed,Bachelor,6,8682,Regular,2528,0,None,Low,No Preference,High,2.8,1,1,1,1,1,0,1,5,65,5,1,1167
+R0296,33,Male,Emirati,Dubai,Employed,Bachelor,32,10273,Regular,1200,0,None,Medium,Yes,Low,5.0,2,1,1,0,1,1,1,8,73,3,0,1230
+R0297,42,Male,Indian,Dubai,Employed,PhD,13,16483,Irregular,789,0,Beginner,High,No Preference,Medium,5.4,2,1,1,1,0,1,0,7,58,8,1,2419
+R0298,31,Male,British,Sharjah,Employed,Bachelor,9,23477,Irregular,619,1,Advanced,High,Yes,Medium,3.9,3,1,1,0,1,1,0,1,158,6,1,3615
+R0299,27,Female,Other,Dubai,Employed,Bachelor,9,20752,Irregular,1005,1,Beginner,Medium,No,Medium,5.7,3,0,1,1,1,1,1,4,189,9,1,2561
+R0300,20,Male,Indian,Dubai,Employed,Bachelor,6,11454,Regular,4623,1,Intermediate,Medium,No,Low,4.6,1,1,1,0,0,1,0,8,71,2,0,2597
+R0301,29,Male,Filipino,Dubai,Unemployed,Bachelor,1,7053,Irregular,1099,1,Intermediate,Low,Yes,Medium,7.7,4,0,1,0,1,0,0,10,38,2,0,1687
+R0302,41,Male,Indian,Dubai,Employed,Bachelor,6,7312,Irregular,1139,1,Beginner,Medium,No Preference,Low,5.2,4,1,1,1,0,1,0,9,29,5,1,1521
+R0303,20,Male,Indian,Dubai,Employed,Master,6,16885,Regular,1234,0,Beginner,Medium,No,Medium,6.9,4,1,1,1,0,0,0,9,52,9,1,2314
+R0304,43,Female,Indian,Dubai,Self-Employed,PhD,14,27689,Regular,873,0,Beginner,High,No Preference,High,5.9,2,0,1,1,1,0,1,10,68,9,1,2988
+R0305,34,Male,Indian,Dubai,Employed,Bachelor,4,18091,Regular,2470,0,Beginner,Medium,No,High,2.7,0,1,1,1,0,0,1,9,58,9,1,2134
+R0306,23,Male,Filipino,Sharjah,Employed,Master,2,15505,Irregular,459,1,Advanced,Low,No,High,5.3,4,1,1,0,1,0,1,6,20,6,1,2121
+R0307,27,Male,Other,Ajman,Unemployed,High School,6,8446,Regular,969,1,Beginner,Low,No,Medium,3.0,0,1,0,0,0,1,1,4,60,1,0,967
+R0308,34,Male,Indian,Abu Dhabi,Employed,Bachelor,15,22873,Regular,2338,0,None,Low,No Preference,High,5.3,0,1,1,1,1,1,0,6,153,10,1,1902
+R0309,28,Female,Pakistani,Abu Dhabi,Employed,Bachelor,7,24550,Irregular,1437,1,Beginner,High,No Preference,High,4.0,1,0,0,1,0,1,1,8,93,9,1,2939
+R0310,22,Male,British,Sharjah,Employed,High School,6,22371,Regular,4149,1,Intermediate,Low,No,Medium,6.3,0,1,1,0,1,1,0,5,175,6,1,2808
+R0311,37,Male,Other,Other,Self-Employed,Master,10,27406,None,0,0,Beginner,Low,No,Medium,2.8,3,0,0,0,0,1,0,9,189,0,0,1563
+R0312,37,Male,Filipino,Abu Dhabi,Employed,Master,10,21664,Regular,2031,0,None,Low,No,Medium,5.5,2,1,1,1,0,0,1,8,73,7,1,906
+R0313,23,Female,Indian,Ajman,Employed,Master,4,19327,Regular,2262,0,None,High,No,High,6.6,1,0,1,1,1,0,0,3,40,8,1,3022
+R0314,27,Female,Filipino,Ajman,Employed,Bachelor,15,18447,Regular,4437,1,Intermediate,Medium,No,Medium,7.3,0,1,0,1,0,1,0,10,60,7,1,3020
+R0315,26,Female,Emirati,Sharjah,Employed,Master,39,16813,Regular,3619,0,None,Medium,No,Medium,4.0,1,1,1,1,0,1,0,9,86,9,1,2017
+R0316,37,Female,Other,Dubai,Self-Employed,Bachelor,0,15938,Irregular,814,1,Beginner,Medium,No Preference,High,5.5,3,0,1,1,1,1,1,6,49,8,1,1522
+R0317,38,Female,Emirati,Dubai,Employed,High School,36,13223,Regular,3583,1,Beginner,Low,No Preference,Low,5.9,3,1,0,1,0,0,0,2,94,10,1,1777
+R0318,38,Male,Filipino,Dubai,Unemployed,High School,14,2589,Irregular,526,0,None,High,No Preference,High,8.6,1,1,1,0,1,1,1,3,31,10,1,866
+R0319,44,Male,Indian,Dubai,Employed,Master,6,19207,Regular,2520,1,Beginner,Low,No Preference,High,2.5,0,0,0,0,0,1,1,9,95,7,1,1443
+R0320,39,Male,Emirati,Abu Dhabi,Employed,PhD,14,25204,Regular,1879,0,None,Low,No,High,3.7,2,1,0,0,1,1,1,1,55,10,1,1431
+R0321,28,Male,Other,Dubai,Self-Employed,High School,9,21791,Regular,4966,0,Beginner,Medium,No Preference,High,11.1,3,1,0,1,0,0,0,5,123,7,1,3142
+R0322,22,Female,Filipino,Abu Dhabi,Employed,Bachelor,11,23017,Irregular,959,1,Intermediate,Low,Yes,Medium,5.0,0,1,1,0,1,1,1,7,158,5,1,2552
+R0323,35,Male,Emirati,Abu Dhabi,Employed,Master,5,23396,Regular,4355,0,None,Low,No,High,1.7,3,1,1,1,0,1,0,3,72,6,1,2587
+R0324,43,Female,Other,Sharjah,Self-Employed,Master,2,20842,Regular,1765,0,Beginner,High,Yes,High,4.3,0,1,1,1,1,1,1,9,177,7,1,3032
+R0325,45,Female,Other,Dubai,Employed,Bachelor,8,20973,Irregular,595,0,None,Medium,Yes,High,1.0,1,1,1,0,1,1,1,6,87,10,1,1454
+R0326,25,Male,Emirati,Dubai,Employed,Master,6,16782,Irregular,929,0,None,Low,No Preference,Medium,6.0,3,0,1,1,1,1,0,1,87,9,1,1356
+R0327,26,Female,Pakistani,Sharjah,Unemployed,Master,2,10610,Regular,3551,0,None,Medium,No Preference,Medium,7.1,0,0,1,1,0,1,1,4,47,5,1,2069
+R0328,20,Female,Pakistani,Sharjah,Employed,Master,10,21179,Regular,1140,1,Advanced,Medium,No,Medium,3.7,1,0,1,0,0,1,1,4,130,4,0,2689
+R0329,23,Female,Filipino,Other,Employed,Bachelor,1,12047,Regular,672,0,None,Low,Yes,Medium,4.6,0,1,1,1,1,0,0,3,97,8,1,909
+R0330,34,Male,Emirati,Sharjah,Employed,Master,27,18807,Irregular,361,0,None,Low,No Preference,Medium,7.3,1,1,0,1,0,1,0,10,35,2,0,1569
+R0331,34,Male,Indian,Ajman,Employed,High School,5,26240,Regular,2339,1,Intermediate,Medium,No,High,2.0,3,1,0,0,0,1,1,4,114,9,1,3107
+R0332,29,Male,Other,Dubai,Employed,Master,2,17093,Irregular,293,1,Beginner,Medium,No Preference,High,2.9,1,0,1,1,0,1,1,6,41,6,1,1833
+R0333,28,Male,Other,Dubai,Student,High School,13,5238,Irregular,299,0,None,High,No Preference,High,5.0,0,1,1,1,0,1,1,6,19,9,1,1063
+R0334,41,Male,Other,Dubai,Employed,Bachelor,3,20729,Regular,848,0,None,Medium,Yes,Medium,4.0,1,1,0,0,1,1,0,3,163,1,0,1517
+R0335,31,Female,Other,Abu Dhabi,Student,High School,4,0,Regular,4050,0,None,Low,Yes,Medium,4.9,0,1,1,1,1,1,1,6,30,7,1,678
+R0336,41,Female,British,Ajman,Employed,Bachelor,13,20553,Irregular,141,0,Beginner,Medium,Yes,Medium,3.0,3,0,1,1,1,1,1,4,177,7,1,1978
+R0337,45,Male,British,Dubai,Employed,Bachelor,14,11030,Regular,3725,0,None,Medium,Yes,Medium,5.9,4,1,1,1,0,1,1,1,73,10,1,2073
+R0338,28,Male,British,Abu Dhabi,Employed,Bachelor,0,14871,Regular,4748,0,Beginner,Low,No,Low,5.2,0,0,1,0,1,1,0,5,36,0,0,1812
+R0339,25,Male,Pakistani,Dubai,Student,Bachelor,4,8378,Regular,4726,0,Beginner,Medium,Yes,Medium,6.6,3,0,1,0,1,1,0,6,23,0,0,2037
+R0340,44,Male,Pakistani,Dubai,Employed,Bachelor,11,19783,Regular,709,1,Intermediate,Low,Yes,Medium,5.9,1,1,1,1,1,1,1,2,79,10,1,2156
+R0341,36,Female,Indian,Dubai,Employed,Master,12,16477,Irregular,1220,1,Advanced,High,Yes,Medium,5.9,0,1,1,1,1,0,0,8,34,5,1,3445
+R0342,27,Male,Filipino,Dubai,Self-Employed,Master,15,24232,Regular,3920,0,None,High,Yes,Low,2.6,3,1,1,1,1,1,0,7,90,8,1,2735
+R0343,36,Male,Indian,Ajman,Student,Master,8,2699,Irregular,240,0,None,Medium,No Preference,Medium,6.5,1,1,0,1,0,0,1,4,16,0,0,807
+R0344,33,Female,Indian,Dubai,Employed,Bachelor,0,18062,Regular,3817,0,None,High,Yes,Low,4.8,2,1,1,0,1,0,0,6,41,10,1,2589
+R0345,43,Male,Pakistani,Sharjah,Self-Employed,Bachelor,13,25284,None,0,1,Intermediate,High,No Preference,High,5.2,2,0,0,1,0,1,0,4,111,5,1,3438
+R0346,26,Male,Emirati,Abu Dhabi,Employed,Master,32,14363,Regular,4986,1,Beginner,Low,Yes,Medium,7.6,2,1,1,1,1,1,0,7,44,9,1,2134
+R0347,45,Female,Indian,Dubai,Employed,High School,1,18201,Regular,1984,0,None,Medium,Yes,Medium,4.1,0,1,1,1,1,1,1,2,61,9,1,2172
+R0348,44,Female,Other,Dubai,Employed,Bachelor,10,16438,Regular,2065,0,None,Medium,Yes,Low,8.2,1,0,1,1,1,1,1,7,87,7,1,2198
+R0349,24,Non-binary/Other,Other,Sharjah,Employed,PhD,9,10071,Regular,609,1,Beginner,Low,No Preference,High,8.4,3,1,1,1,0,0,0,1,99,9,1,1066
+R0350,24,Female,Indian,Dubai,Employed,PhD,0,13397,Irregular,1260,0,Beginner,Medium,Yes,Medium,7.0,4,1,1,0,1,0,0,1,78,3,0,1866
+R0351,33,Male,Indian,Ajman,Student,Bachelor,2,10841,Regular,1762,0,None,Low,No,High,3.5,0,0,0,1,0,0,1,3,91,8,1,1555
+R0352,21,Female,Emirati,Dubai,Employed,Master,1,19923,None,0,0,None,High,Yes,Medium,1.1,2,1,1,1,1,0,0,2,62,7,1,2510
+R0353,27,Female,British,Abu Dhabi,Self-Employed,Bachelor,4,15382,Irregular,533,1,Advanced,Medium,No Preference,High,7.7,4,1,0,1,0,1,1,5,52,6,1,2913
+R0354,31,Female,Other,Sharjah,Self-Employed,Master,10,14298,Irregular,514,0,None,High,Yes,High,5.7,1,1,1,0,1,1,1,2,85,9,1,2326
+R0355,45,Female,Indian,Dubai,Student,High School,6,2439,Irregular,585,0,None,Medium,No,Medium,4.0,2,1,1,1,1,1,0,3,20,1,0,754
+R0356,45,Female,British,Dubai,Student,Bachelor,9,10805,Irregular,522,0,None,Low,No Preference,High,7.8,4,1,1,0,0,0,0,1,85,6,1,1282
+R0357,23,Female,Indian,Other,Student,Master,7,2066,Irregular,740,1,Advanced,High,Yes,Medium,3.8,4,1,0,0,1,1,0,9,30,5,0,2482
+R0358,43,Male,Emirati,Dubai,Unemployed,Bachelor,0,10534,None,0,0,None,Low,Yes,High,4.7,3,1,1,0,1,0,1,8,51,10,1,929
+R0359,22,Female,Other,Dubai,Employed,Master,5,19759,Regular,3783,0,Beginner,Low,No Preference,Medium,6.5,3,1,1,1,0,1,0,3,70,8,1,2149
+R0360,39,Male,Indian,Dubai,Employed,Bachelor,11,20356,Irregular,540,1,Beginner,Medium,Yes,Low,3.3,3,1,1,1,1,1,1,2,194,8,1,2279
+R0361,41,Female,Indian,Dubai,Employed,Master,8,11321,Irregular,314,0,None,Medium,Yes,High,5.3,1,0,1,1,1,0,1,9,82,7,1,1757
+R0362,43,Female,Emirati,Sharjah,Employed,Master,43,22687,Irregular,1329,0,None,Medium,No,High,7.7,4,1,0,1,1,1,1,7,105,8,1,1774
+R0363,25,Female,Filipino,Sharjah,Employed,Bachelor,9,16325,Regular,4075,0,None,Low,Yes,Medium,5.9,0,0,1,1,1,1,1,9,97,8,1,1882
+R0364,43,Non-binary/Other,Other,Dubai,Student,Master,3,7315,None,0,1,Advanced,Medium,No Preference,High,8.0,0,1,0,1,0,0,0,2,39,8,1,1623
+R0365,23,Male,Other,Sharjah,Employed,Bachelor,14,13929,Irregular,886,0,None,Low,No,Medium,7.8,3,1,0,1,0,1,1,4,23,4,0,1120
+R0366,33,Female,Indian,Dubai,Self-Employed,Bachelor,9,22885,Irregular,253,1,Beginner,Low,No,Medium,5.5,4,1,1,1,0,1,1,2,162,8,1,1450
+R0367,32,Female,Indian,Dubai,Employed,Bachelor,11,19760,Regular,2222,0,Beginner,Medium,Yes,High,1.0,4,1,1,0,1,0,0,5,78,10,1,1967
+R0368,28,Male,British,Abu Dhabi,Employed,Master,14,17229,None,0,0,Beginner,Low,No Preference,Medium,3.3,3,1,0,0,0,0,0,2,54,5,0,1939
+R0369,20,Male,Indian,Other,Employed,Master,14,20022,Regular,2387,1,Beginner,Low,No Preference,Medium,7.0,1,1,1,1,0,1,0,1,173,7,1,2494
+R0370,40,Male,Other,Dubai,Employed,Master,10,16668,None,0,1,Intermediate,Medium,Yes,High,2.4,1,1,1,1,1,1,0,6,61,8,1,1702
+R0371,28,Female,Filipino,Dubai,Employed,Master,12,14754,Irregular,791,1,Intermediate,Medium,No Preference,Low,4.8,2,1,1,1,1,1,1,10,67,6,1,2363
+R0372,37,Male,Indian,Abu Dhabi,Employed,PhD,7,26027,Irregular,785,0,Beginner,Low,No,Medium,6.2,1,1,1,0,0,1,0,7,57,0,0,1898
+R0373,30,Non-binary/Other,Other,Sharjah,Employed,Bachelor,11,23244,Regular,1567,0,None,Medium,No Preference,Medium,8.4,2,0,1,1,0,1,1,8,59,9,1,2074
+R0374,29,Male,Indian,Dubai,Employed,PhD,5,14195,Irregular,876,0,None,Low,Yes,High,4.3,0,1,0,1,1,1,1,9,57,8,1,1238
+R0375,43,Non-binary/Other,Emirati,Dubai,Employed,Bachelor,6,20842,Regular,4498,1,Intermediate,High,Yes,Low,4.2,1,1,1,1,1,0,0,10,150,5,1,3724
+R0376,22,Male,Pakistani,Sharjah,Employed,Bachelor,1,14286,Irregular,128,1,Advanced,Low,No Preference,Medium,5.4,4,1,1,1,0,1,1,2,72,7,1,1836
+R0377,39,Female,Pakistani,Dubai,Employed,Bachelor,14,12076,Regular,2651,1,Advanced,Low,No Preference,High,6.2,3,1,1,1,1,1,0,3,26,10,1,2325
+R0378,39,Male,Filipino,Dubai,Employed,Bachelor,3,23169,Irregular,1279,0,Beginner,Medium,No,Medium,5.2,0,1,0,1,1,1,0,7,123,3,0,2366
+R0379,29,Female,Filipino,Dubai,Employed,Bachelor,10,9479,None,0,0,None,Low,Yes,Medium,7.6,1,1,0,1,1,1,0,9,92,2,0,804
+R0380,26,Female,Other,Dubai,Employed,Bachelor,0,22634,Irregular,1463,0,None,Low,No Preference,High,3.9,1,0,1,1,1,0,0,8,113,8,1,1512
+R0381,20,Female,Other,Dubai,Employed,High School,2,16736,Regular,3935,1,Beginner,Low,Yes,High,5.7,1,1,1,1,0,1,0,8,98,5,1,1885
+R0382,44,Female,Pakistani,Sharjah,Student,Bachelor,15,1942,None,0,0,None,Medium,Yes,Low,6.4,3,1,1,1,1,1,0,4,30,6,1,770
+R0383,44,Male,Indian,Abu Dhabi,Unemployed,Master,13,6048,None,0,1,Intermediate,Medium,No,High,4.7,4,1,1,1,0,0,0,4,31,5,1,1868
+R0384,26,Male,British,Abu Dhabi,Self-Employed,Master,3,24905,Irregular,1024,0,None,Medium,Yes,High,7.2,3,1,1,1,1,0,0,1,93,9,1,2127
+R0385,20,Male,Other,Other,Employed,Bachelor,2,13868,Regular,1662,0,Beginner,High,Yes,Medium,5.8,2,0,1,1,1,1,1,4,78,9,1,2813
+R0386,23,Male,Emirati,Dubai,Employed,Bachelor,25,21588,Regular,1102,0,None,Medium,Yes,High,7.1,0,1,1,0,1,1,0,2,181,7,1,1491
+R0387,21,Female,Pakistani,Dubai,Employed,Bachelor,15,18566,Regular,4291,0,Beginner,High,No Preference,High,5.9,0,1,1,1,1,1,1,10,88,9,1,3144
+R0388,41,Female,Emirati,Ajman,Student,Bachelor,32,0,None,0,1,Intermediate,Medium,Yes,High,6.3,4,1,1,1,1,0,1,1,4,8,1,1194
+R0389,43,Female,Indian,Dubai,Student,Master,10,2150,None,0,0,None,High,No Preference,Medium,4.2,3,1,1,0,0,1,1,4,37,5,0,1084
+R0390,23,Female,Filipino,Abu Dhabi,Self-Employed,Bachelor,4,28906,Irregular,308,1,Intermediate,Medium,No Preference,High,4.2,2,1,1,0,0,0,1,9,114,9,1,2272
+R0391,39,Female,Emirati,Sharjah,Self-Employed,Master,34,30382,Regular,2753,0,None,Medium,No Preference,High,7.9,2,1,1,0,0,0,1,10,164,7,1,3048
+R0392,24,Female,British,Dubai,Employed,Master,6,21586,Regular,2425,1,Advanced,Low,No,Medium,6.8,4,1,1,1,1,1,1,4,103,8,1,2557
+R0393,29,Male,Other,Dubai,Student,Bachelor,2,0,None,0,1,Intermediate,Medium,No,High,3.5,4,0,1,1,0,0,1,5,34,6,1,1815
+R0394,35,Male,Other,Dubai,Self-Employed,Master,5,24453,Regular,1253,1,Beginner,Low,No,High,5.9,0,1,1,1,0,1,1,6,172,9,1,2000
+R0395,38,Female,Emirati,Dubai,Employed,Bachelor,26,22254,Regular,832,1,Beginner,Medium,No,High,1.0,1,1,1,1,0,1,0,9,96,10,1,2345
+R0396,42,Female,Emirati,Dubai,Self-Employed,Master,4,25628,Regular,2058,0,None,Low,No Preference,High,4.4,0,1,1,1,0,0,1,8,163,6,1,2393
+R0397,21,Male,British,Dubai,Employed,Master,0,21924,Regular,2616,0,None,Low,No Preference,Medium,7.4,1,1,1,1,1,0,1,6,97,9,1,2177
+R0398,25,Male,Other,Sharjah,Unemployed,Master,15,5816,Irregular,689,1,Advanced,High,No,Medium,5.2,3,0,1,1,1,1,0,4,30,5,1,2510
+R0399,27,Female,Pakistani,Ajman,Student,Master,10,2637,None,0,0,None,Medium,Yes,Medium,5.7,1,1,1,0,1,0,1,4,28,6,0,712
+R0400,28,Male,Other,Sharjah,Employed,Master,14,14958,Regular,1606,0,None,Medium,No Preference,Medium,1.0,0,1,1,0,0,0,1,7,63,1,0,2029
+R0401,45,Male,Indian,Dubai,Student,PhD,14,0,Irregular,601,1,Advanced,Medium,Yes,Medium,4.7,2,1,0,1,0,1,1,9,25,0,0,1754
+R0402,40,Female,Other,Dubai,Employed,Bachelor,2,19698,Irregular,558,0,None,Medium,No Preference,High,6.2,2,1,1,0,0,0,0,1,67,6,1,2132
+R0403,28,Female,Indian,Dubai,Student,Master,1,3930,None,0,0,Beginner,High,Yes,High,6.4,3,1,1,1,1,1,0,8,1,7,1,1612
+R0404,45,Male,Indian,Dubai,Student,Master,12,5787,Irregular,1457,0,None,Medium,No Preference,Medium,7.4,0,1,1,1,0,1,0,5,12,6,0,1151
+R0405,32,Female,Pakistani,Ajman,Student,Bachelor,3,0,None,0,1,Beginner,Medium,No Preference,High,5.1,1,1,1,0,1,0,1,2,3,8,1,332
+R0406,33,Male,Indian,Dubai,Self-Employed,Master,2,25225,Regular,3051,0,None,Medium,No,Medium,5.2,3,0,1,1,0,1,1,1,58,5,1,2504
+R0407,31,Female,Indian,Dubai,Employed,Bachelor,7,28272,Irregular,1311,1,Beginner,Medium,Yes,Medium,2.8,3,1,1,1,1,1,1,4,107,6,1,1989
+R0408,23,Male,Indian,Sharjah,Employed,Bachelor,14,18392,Regular,1372,1,Intermediate,Medium,No Preference,Low,5.1,4,1,1,1,0,1,0,3,24,6,1,2369
+R0409,44,Female,Emirati,Dubai,Employed,Bachelor,24,17691,Regular,4325,0,None,High,No,Medium,3.0,4,0,1,1,0,0,0,2,73,10,1,2771
+R0410,20,Male,British,Dubai,Employed,Bachelor,8,19545,Irregular,331,0,Beginner,Medium,Yes,Medium,1.8,4,0,1,0,1,1,1,3,56,10,1,1321
+R0411,24,Male,Indian,Dubai,Employed,Master,3,28161,Irregular,605,0,None,Medium,No,High,3.3,2,1,0,1,0,0,1,9,195,5,1,2453
+R0412,25,Female,Filipino,Abu Dhabi,Employed,Bachelor,5,12881,None,0,1,Beginner,Medium,No,High,8.5,4,1,1,1,0,1,1,8,75,5,1,1478
+R0413,27,Male,Other,Sharjah,Employed,Bachelor,11,19016,Irregular,1498,1,Beginner,Medium,No Preference,Medium,5.0,2,1,1,1,0,0,0,3,58,9,1,1960
+R0414,23,Male,Indian,Dubai,Employed,Bachelor,2,14001,None,0,1,Advanced,High,Yes,Low,5.9,4,1,1,1,1,1,0,7,76,6,1,2902
+R0415,20,Male,Indian,Ajman,Self-Employed,Bachelor,8,19264,Regular,2057,1,Advanced,Medium,No,Low,4.5,1,1,1,0,1,0,1,5,29,4,0,3081
+R0416,37,Female,Other,Sharjah,Employed,Master,0,17752,Regular,1168,1,Advanced,Medium,No Preference,High,1.9,2,1,0,1,0,1,1,8,34,10,1,3043
+R0417,45,Female,Other,Sharjah,Self-Employed,Master,5,28736,Regular,2382,0,None,Medium,Yes,High,7.4,3,1,1,1,1,1,0,3,133,5,1,2403
+R0418,23,Non-binary/Other,Pakistani,Dubai,Employed,High School,3,27004,Irregular,1367,0,None,Medium,No,Medium,1.2,1,0,1,0,0,1,1,1,143,1,0,2061
+R0419,27,Male,Other,Dubai,Employed,Bachelor,10,20240,Regular,1338,0,None,Low,No Preference,Medium,4.4,0,1,0,1,0,0,1,4,120,5,1,1564
+R0420,33,Male,Indian,Sharjah,Employed,Bachelor,14,16117,Irregular,490,0,None,Medium,No Preference,Medium,5.4,4,1,0,1,0,1,1,10,50,6,1,1262
+R0421,44,Male,Emirati,Dubai,Employed,Master,28,30463,Regular,3857,1,Intermediate,High,No,High,6.0,2,1,0,1,0,1,0,6,107,8,1,3908
+R0422,38,Female,British,Abu Dhabi,Employed,Bachelor,12,15862,Irregular,1007,0,None,Medium,No Preference,Medium,4.0,4,1,1,0,0,1,0,1,97,0,0,1568
+R0423,39,Non-binary/Other,Indian,Sharjah,Employed,Bachelor,10,15144,Irregular,206,1,Beginner,Low,Yes,Low,1.8,1,1,1,1,1,1,1,10,65,8,1,1470
+R0424,35,Female,British,Dubai,Employed,Bachelor,15,9125,Irregular,156,0,Beginner,Medium,No,Medium,3.9,4,0,1,0,1,0,1,9,29,4,0,1018
+R0425,30,Female,Pakistani,Sharjah,Employed,Bachelor,14,24980,Regular,3978,1,Advanced,Medium,No Preference,Medium,4.0,3,1,0,1,0,1,1,6,155,6,1,4148
+R0426,25,Male,British,Ajman,Student,Bachelor,1,7841,None,0,0,None,Low,No Preference,Medium,4.0,3,1,1,1,1,0,1,8,7,9,1,398
+R0427,42,Female,Pakistani,Abu Dhabi,Employed,Bachelor,11,30089,Irregular,256,0,None,Medium,No,Medium,7.4,3,0,1,0,0,0,0,2,165,4,0,1671
+R0428,40,Male,Emirati,Dubai,Self-Employed,Master,27,15052,Regular,2014,0,None,Medium,No,High,3.1,1,1,0,0,0,0,0,6,92,5,1,1480
+R0429,20,Male,Indian,Sharjah,Employed,Master,1,25290,Regular,3695,0,None,High,No,Medium,6.1,4,1,1,1,0,1,0,10,61,8,1,3553
+R0430,38,Male,Indian,Abu Dhabi,Unemployed,Bachelor,4,4350,None,0,0,None,Low,Yes,Medium,5.8,4,0,1,0,1,1,1,5,4,3,0,266
+R0431,22,Male,British,Sharjah,Student,Master,14,7030,Irregular,1358,1,Beginner,Low,No Preference,Medium,7.4,3,0,1,1,1,1,0,1,20,5,1,1040
+R0432,39,Male,Indian,Sharjah,Unemployed,Master,8,0,None,0,0,None,Medium,No Preference,Medium,5.2,4,1,1,1,1,0,1,8,7,6,1,1163
+R0433,41,Male,Indian,Sharjah,Self-Employed,Bachelor,5,29340,Regular,767,0,None,Low,No,High,7.1,4,0,1,1,0,1,1,8,121,10,1,1834
+R0434,23,Male,Indian,Dubai,Employed,Bachelor,5,21932,Irregular,1259,0,None,Medium,Yes,High,5.2,3,0,1,0,1,1,1,8,84,9,1,2419
+R0435,31,Female,Indian,Dubai,Employed,Bachelor,13,17805,None,0,0,None,High,Yes,Low,6.4,2,1,1,0,1,1,1,7,35,1,0,1537
+R0436,23,Male,Other,Dubai,Employed,Master,4,21225,Irregular,1458,1,Beginner,Low,Yes,High,2.5,4,1,1,0,1,0,1,2,160,5,1,1249
+R0437,34,Male,Emirati,Abu Dhabi,Self-Employed,Bachelor,37,18172,Irregular,727,0,Beginner,Medium,No Preference,High,1.0,0,1,0,1,0,1,0,2,25,7,1,1904
+R0438,44,Female,Other,Abu Dhabi,Student,Master,9,102,Regular,1924,0,None,High,No,High,6.3,2,1,1,1,0,1,1,8,36,7,1,1415
+R0439,22,Female,Indian,Abu Dhabi,Employed,Bachelor,15,15682,Regular,2312,1,Advanced,Medium,Yes,Medium,6.4,4,1,1,1,1,1,0,9,46,7,1,2904
+R0440,30,Male,Filipino,Dubai,Self-Employed,Bachelor,2,12736,Irregular,990,1,Intermediate,Medium,No,Medium,6.5,4,1,1,0,0,1,0,1,53,9,1,2615
+R0441,45,Male,Emirati,Sharjah,Employed,PhD,38,22308,Irregular,1316,1,Advanced,Medium,No Preference,Low,4.5,1,1,1,0,1,0,1,6,166,2,0,3074
+R0442,27,Female,Emirati,Ajman,Student,Bachelor,12,8957,Irregular,1206,0,None,Low,Yes,High,8.5,0,1,1,0,1,1,1,6,99,5,1,828
+R0443,23,Male,Other,Dubai,Student,Master,3,0,None,0,1,Beginner,Low,No,High,4.6,1,1,1,1,0,0,1,4,26,9,1,361
+R0444,32,Male,Other,Sharjah,Employed,PhD,10,19741,Regular,1565,1,Advanced,Medium,No,Medium,6.3,4,1,0,0,0,1,0,7,43,5,0,2727
+R0445,33,Female,Other,Abu Dhabi,Student,Master,4,1672,Irregular,658,1,Intermediate,Medium,Yes,Medium,6.7,2,1,1,0,1,1,1,10,6,3,0,1523
+R0446,37,Male,Indian,Abu Dhabi,Self-Employed,Bachelor,2,23641,Irregular,1310,0,Beginner,Low,No,Low,8.9,0,1,1,1,1,0,1,9,154,7,1,1441
+R0447,28,Female,Indian,Dubai,Employed,Master,4,14862,Regular,2210,1,Intermediate,Low,No,Medium,4.9,0,1,1,1,1,1,1,2,35,8,1,1742
+R0448,44,Female,Filipino,Sharjah,Employed,High School,14,13582,None,0,1,Advanced,High,Yes,High,4.2,1,1,1,0,1,0,0,5,92,5,1,2605
+R0449,33,Female,Indian,Other,Employed,Bachelor,14,23260,Regular,3901,0,Beginner,Low,Yes,Medium,2.5,1,1,1,1,1,0,1,10,197,10,1,2849
+R0450,27,Male,British,Abu Dhabi,Student,Master,8,2680,None,0,1,Beginner,Medium,No Preference,High,8.6,0,1,1,0,1,1,1,3,2,6,1,622
+R0451,44,Male,Pakistani,Ajman,Employed,Master,6,28110,Regular,1339,0,None,Medium,Yes,High,6.3,2,1,1,0,1,1,1,9,120,8,1,2198
+R0452,44,Male,Pakistani,Other,Self-Employed,Bachelor,13,22231,Irregular,256,0,Beginner,Medium,No,High,6.4,2,0,0,0,0,1,0,5,198,7,1,1771
+R0453,32,Male,Other,Dubai,Self-Employed,Bachelor,3,17369,None,0,0,None,Low,No,High,11.7,0,1,1,0,0,1,1,6,67,9,1,1257
+R0454,20,Female,British,Abu Dhabi,Employed,Master,10,24134,Irregular,503,0,None,Low,No Preference,Low,6.2,1,0,0,1,0,0,0,3,130,6,1,1132
+R0455,35,Male,Indian,Dubai,Employed,Master,10,21154,Irregular,1171,1,Intermediate,Medium,No Preference,High,2.9,3,1,0,1,0,1,0,10,116,5,1,2813
+R0456,34,Female,Indian,Other,Student,Bachelor,11,6634,Irregular,847,1,Intermediate,Medium,No Preference,High,5.1,4,1,1,1,0,1,0,6,24,8,1,1741
+R0457,23,Female,Filipino,Dubai,Student,Master,3,8953,Irregular,1496,1,Intermediate,Low,No,Medium,3.6,4,1,1,0,0,0,1,6,20,10,1,1624
+R0458,36,Female,Pakistani,Dubai,Employed,Bachelor,11,14736,Regular,1442,1,Advanced,Medium,No,Medium,4.7,2,1,1,1,0,1,1,5,88,8,1,2679
+R0459,41,Male,Indian,Sharjah,Employed,Bachelor,9,17363,Regular,579,1,Intermediate,Medium,No,Medium,4.7,0,0,1,1,0,1,0,1,22,9,1,2291
+R0460,22,Male,Emirati,Dubai,Employed,Master,22,17142,Irregular,1290,0,Beginner,Low,No,Medium,4.3,4,0,1,0,0,0,0,8,29,0,0,1284
+R0461,38,Non-binary/Other,British,Sharjah,Unemployed,PhD,2,0,None,0,1,Beginner,Medium,No,Medium,2.7,4,1,1,1,0,1,0,4,35,5,1,599
+R0462,23,Female,Other,Dubai,Employed,Bachelor,9,16682,Regular,4006,1,Beginner,Low,Yes,Low,8.7,1,1,1,1,0,1,0,3,69,7,1,1751
+R0463,39,Female,Pakistani,Other,Self-Employed,Bachelor,13,28681,Irregular,1144,0,Beginner,Medium,No,High,6.1,2,1,1,1,0,0,1,8,169,10,1,2389
+R0464,30,Female,Emirati,Ajman,Employed,Bachelor,5,19186,Regular,1786,0,None,Low,No,Low,5.0,0,1,1,0,0,1,0,2,65,4,0,1355
+R0465,20,Female,Indian,Dubai,Self-Employed,Master,11,15269,None,0,1,Advanced,Medium,Yes,Low,7.0,4,1,1,1,1,0,0,7,53,9,1,2436
+R0466,45,Male,Pakistani,Sharjah,Employed,Bachelor,1,10220,Regular,822,1,Advanced,Medium,Yes,Medium,6.4,3,0,1,1,1,0,1,5,73,6,1,2476
+R0467,24,Female,Emirati,Dubai,Employed,Bachelor,16,26323,Regular,1514,1,Advanced,Medium,No Preference,Medium,6.1,0,1,0,1,1,1,0,8,83,8,1,2953
+R0468,35,Male,Pakistani,Abu Dhabi,Self-Employed,PhD,9,21548,None,0,1,Beginner,Medium,No,High,6.9,3,1,1,1,1,1,1,1,95,8,1,1866
+R0469,24,Female,Filipino,Abu Dhabi,Self-Employed,High School,3,18762,Irregular,1494,0,None,High,No Preference,Medium,5.8,2,0,1,0,0,0,1,8,49,0,0,2344
+R0470,44,Female,Indian,Sharjah,Employed,Bachelor,1,16630,Irregular,770,0,None,Medium,No,Medium,6.8,2,1,0,1,0,1,1,3,96,3,0,1897
+R0471,39,Male,Indian,Dubai,Employed,Bachelor,11,10613,Regular,3121,0,None,High,No Preference,Medium,7.0,1,1,0,1,0,1,1,9,44,3,0,2229
+R0472,40,Male,Indian,Dubai,Employed,Master,3,25115,Regular,3277,0,Beginner,Low,No Preference,Medium,5.8,4,1,1,1,0,1,0,4,50,6,1,2484
+R0473,31,Male,Other,Abu Dhabi,Employed,Bachelor,7,16034,Regular,2278,0,None,Medium,Yes,High,5.1,2,1,1,0,1,1,1,1,42,6,1,1409
+R0474,32,Female,Filipino,Abu Dhabi,Employed,Bachelor,0,24837,Regular,4409,0,None,Low,No Preference,High,8.6,4,1,1,0,0,1,1,5,178,8,1,2611
+R0475,36,Male,Indian,Abu Dhabi,Self-Employed,Bachelor,15,22258,Regular,4632,1,Beginner,Medium,Yes,Medium,4.5,0,0,1,0,0,0,0,1,140,5,0,3260
+R0476,40,Male,Other,Dubai,Employed,Master,8,25147,Irregular,1178,1,Intermediate,Medium,No,High,6.3,2,1,1,0,1,1,1,3,95,10,1,2542
+R0477,42,Male,Pakistani,Dubai,Student,Master,14,4283,None,0,0,None,High,No Preference,Medium,6.3,1,1,1,1,0,1,1,8,26,4,0,2091
+R0478,20,Male,Pakistani,Sharjah,Employed,Bachelor,2,22266,Regular,1385,0,None,Medium,Yes,High,4.3,4,0,1,0,1,1,1,6,90,8,1,1586
+R0479,37,Male,Other,Dubai,Employed,Bachelor,3,21595,Regular,1617,1,Intermediate,Medium,No,Medium,3.9,2,0,1,1,0,1,1,8,95,9,1,2328
+R0480,22,Male,Indian,Dubai,Student,Master,9,6116,None,0,1,Beginner,Low,No,Medium,4.8,3,1,1,1,1,0,0,9,2,10,1,593
+R0481,27,Male,Indian,Ajman,Employed,High School,9,19739,Irregular,1180,1,Intermediate,Low,Yes,High,4.5,0,0,1,1,1,0,1,5,57,5,1,2057
+R0482,41,Male,Pakistani,Dubai,Student,Bachelor,12,1835,None,0,1,Beginner,High,Yes,High,2.6,3,1,0,0,0,1,1,6,35,6,1,1785
+R0483,26,Male,Indian,Sharjah,Employed,Bachelor,14,27577,Regular,1375,0,None,Low,Yes,Medium,4.2,0,1,0,1,1,1,1,1,75,6,0,1870
+R0484,40,Male,Filipino,Dubai,Self-Employed,Bachelor,13,17465,None,0,0,Beginner,Low,Yes,High,6.0,1,1,1,1,1,1,0,3,31,8,1,1115
+R0485,32,Male,Indian,Sharjah,Student,Bachelor,2,3021,None,0,0,None,High,No,High,8.0,1,1,0,1,0,1,1,8,20,6,1,982
+R0486,26,Female,Indian,Sharjah,Self-Employed,Bachelor,4,22074,Irregular,282,1,Intermediate,High,No,Medium,6.6,0,0,1,0,0,0,1,1,89,6,1,2902
+R0487,28,Male,Indian,Ajman,Employed,Bachelor,14,20012,Regular,1454,1,Beginner,Medium,No,High,1.0,2,1,1,1,0,0,0,4,152,5,1,2491
+R0488,33,Male,Emirati,Dubai,Employed,Bachelor,13,15852,Irregular,656,0,None,Medium,No Preference,High,6.8,1,1,0,0,1,1,1,2,25,5,1,1178
+R0489,39,Male,Indian,Abu Dhabi,Employed,Master,13,19573,Irregular,1212,0,None,High,Yes,Medium,4.4,2,1,1,1,1,1,1,9,55,7,1,1758
+R0490,35,Male,Indian,Sharjah,Employed,Bachelor,9,17155,Irregular,676,1,Beginner,Low,Yes,Medium,6.4,3,1,1,1,1,1,1,6,67,10,1,1154
+R0491,44,Male,Other,Dubai,Employed,High School,0,10090,Regular,3347,1,Beginner,Medium,No Preference,High,5.5,0,1,1,0,0,0,1,7,20,6,1,2290
+R0492,42,Male,Emirati,Dubai,Employed,Master,25,18047,Regular,4952,0,None,Medium,No Preference,High,5.1,3,1,1,1,0,1,0,7,80,6,1,2799
+R0493,39,Female,Emirati,Dubai,Employed,Bachelor,13,12497,None,0,0,None,High,No,Medium,5.3,1,1,1,0,1,1,1,3,73,0,0,1444
+R0494,35,Male,Indian,Other,Employed,Master,10,9328,None,0,0,None,High,Yes,Low,5.5,1,1,1,1,0,0,1,1,20,10,1,2127
+R0495,27,Male,Emirati,Abu Dhabi,Employed,Bachelor,12,18684,Irregular,273,0,None,Medium,No Preference,Medium,8.2,2,1,1,1,0,0,1,4,69,8,1,2276
+R0496,30,Male,Indian,Abu Dhabi,Employed,Master,3,20439,Regular,4694,0,None,Low,No Preference,High,5.5,3,0,1,0,1,1,0,2,135,8,1,1950
+R0497,23,Male,Filipino,Sharjah,Employed,Bachelor,13,20633,Irregular,1152,0,Beginner,Medium,No,High,7.7,3,1,1,0,0,1,0,4,64,6,1,1857
+R0498,29,Male,Indian,Abu Dhabi,Student,Bachelor,15,5835,Regular,2757,1,Advanced,Low,Yes,Low,7.4,0,0,1,0,1,1,1,4,11,5,0,1869
+R0499,44,Female,Other,Dubai,Employed,Bachelor,12,8337,Regular,4381,0,None,High,Yes,High,6.8,2,1,1,1,1,1,0,8,36,6,1,2308
+R0500,31,Female,Other,Dubai,Employed,High School,1,11194,Regular,2766,0,None,Low,No,High,1.9,1,1,1,1,0,1,1,4,60,10,1,967
